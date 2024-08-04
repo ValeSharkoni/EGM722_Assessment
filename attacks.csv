@@ -1252,7 +1252,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1997,Unprovoked,JAPAN,Miyako Island,Fishing for octopus,M,55,"FATAL, legs severed  ",Y,White,36.204824,138.252924
 2000,Unprovoked,JAPAN,Miyako Island,Surfing,M,31, FATAL,Y,White,36.204824,138.252924
 1960,Sea Disaster,JAPAN,Miyako Island,R5D aircraft went down with 29 on board,M,NA,One body sighted but not recovered due to shark activity,N,NA,36.204824,138.252924
-1965,Unprovoked,USA,Hawaii,"Hauling dead shark aboard, when another shark leapt out of the water & bit him",M,44,"Left forearm bitten, surgically amputated",N,NA,-14.270972,-170.132217
+1965,Unprovoked,USA,Hawaii,"Hauling dead shark aboard, when another shark leapt out of the water & bit him",M,44,"Left forearm bitten, surgically amputated",N,NA,19.808065,-155.894947
 1963,Unprovoked,PALAU,Western Caroline Islands,Fishing,M,35,Left calf lacerated,N,NA,7.51498,134.58252
 1965,Unprovoked,PALAU,Western Caroline Islands,Walking on reef,M,8,Right leg bitten,N,Tiger   ,7.51498,134.58252
 1970,Provoked,PALAU,Western Caroline Islands,Spearfishing,M,20,"Another diver shot shark, shark bit his left foream  PROVOKED INCIDENT",N,NA,7.51498,134.58252
@@ -1875,7 +1875,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2011,Boat,UNITED KINGDOM,Cornwall,Fishing,NA,NA,"No injury, shark slammed into boat",N,Whitetip,55.378051,-3.435973
 2017,Unprovoked,UNITED KINGDOM,South Devon,Surfing ,M,30,"Bruise to leg, cuts to hand sustained when he hit the shark",N,Smoothhound,55.378051,-3.435973
 2004,Unprovoked,URUGUAY,Rocha,Surfing,M,21,Puncture wounds to dorsum of right foot,N,Sandtiger,-32.522779,-55.765835
-1960,Unprovoked,USA,Hawaii,Swept out to sea while net fishing,M,NA,"FATAL  Shark seen attacking Riley, body recovered off Nanakuli",Y,NA,-14.270972,-170.132217
+1960,Unprovoked,USA,Hawaii,Swept out to sea while net fishing,M,NA,"FATAL  Shark seen attacking Riley, body recovered off Nanakuli",Y,NA,19.808065,-155.894947
 1960,Sea Disaster,USA,California,Ejected from F3H-2 aircraft ,M,36,"No injury, shark hit his foot & circled",N,NA,36.778261,-119.417932
 1960,Provoked,USA,South Carolina,Fishing inside net,M,NA,"Multiple superficial lacerations of leg, arm & hand PROVOKED INCIDENT",N,NA,33.836081,-81.163725
 1960,Unprovoked,USA,New Jersey,Swimming 3 miles offshore,M,25,Right leg severely lacerated,N,NA,40.058324,-74.405661
@@ -1898,7 +1898,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1961,Provoked,USA,Florida,NA,M,16,Foot & lower leg abraded and lacerated when he kicked the shark PROVOKED INCIDENT,N,NA,27.664827,-81.515754
 1961,Unprovoked,USA,California,Swimming,M,16,"Foot, leg  & groin lacerated",N,White,36.778261,-119.417932
 1961,Unprovoked,USA,South Carolina,Wading,M,19,"Right arm bitten. Left leg bitten, surgically amputated ",N,White,33.836081,-81.163725
-1961,Unprovoked,USA,Hawaii,"Net fishing, picking catch from the net",M,38,Hand bitten,N,NA,-14.270972,-170.132217
+1961,Unprovoked,USA,Hawaii,"Net fishing, picking catch from the net",M,38,Hand bitten,N,NA,19.808065,-155.894947
 1961,Provoked,USA,New York,Spearfishing,M,57,Puncture wound on right shin & fingers lacerated by speared shark PROVOKED INCIDENT,N,NA,43.299428,-74.217933
 1961,Unprovoked,USA,Florida,Scuba diving & spearfishing ,M,23,"FATAL, arm severed & left side of torso removed ",Y,NA,27.664827,-81.515754
 1961,Unprovoked,USA,Florida,Standing,M,25,Lacerations to left leg,N,NA,27.664827,-81.515754
@@ -1907,7 +1907,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1961,Unprovoked,USA,Florida,Walking in chest-deep water,M,52,Middle finger of left hand & right forearm lacerated,N,Hammerhead ,27.664827,-81.515754
 1961,Unprovoked,USA,Florida,Spearfishing,M,22,Thigh bitten,N,Tiger   ,27.664827,-81.515754
 1961,Provoked,USA,Pennsylvania,Cleaning a tank,M,30,Thumb lacerated by captive shark PROVOKED INCIDENT,N,NA,41.203322,-77.194525
-1961,Sea Disaster,USA,Hawaii,Light aircraft ditched at sea,NA,NA,3 of the 4 passengers killed by sharks,Y,NA,-14.270972,-170.132217
+1961,Sea Disaster,USA,Hawaii,Light aircraft ditched at sea,NA,NA,3 of the 4 passengers killed by sharks,Y,NA,19.808065,-155.894947
 1962,Unprovoked,USA,California,Spearfishing / Scuba diving (at surface),M,24,"Arm, hand, buttock, leg and thigh bitten",N,White,36.778261,-119.417932
 1962,Provoked,USA,California,Diving for abalone,M,39,"Struck shark with abalone bar to scare it away from abalone, but shark bit his shoulder  PROVOKED INCIDENT",N,Horn,36.778261,-119.417932
 1962,Boat,USA,Florida,NA,NA,NA,"No injury to occupants, sharks tore Max Butcher's life jacket & pants",N,NA,27.664827,-81.515754
@@ -1932,7 +1932,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1963,Provoked,USA,Florida,"Spearfishing, pulled shark?s tail",M,16,Minor injury to left forearm  PROVOKED INCIDENT,N,Nurse ,27.664827,-81.515754
 1963,Unprovoked,USA,Florida,Bathing,M,14,"Left forearm bitten, surgically amputated?",N,NA,27.664827,-81.515754
 1963,Provoked,USA,Mississippi,"Fishing, on charter boat Silver Dollar",M,24,"Cuts on right hand, PROVOKED INCIDENT",N,NA,32.354668,-89.398528
-1963,Unprovoked,USA,Hawaii,Surfing ,M,15,Left foot & leg bitten,N,NA,-14.270972,-170.132217
+1963,Unprovoked,USA,Hawaii,Surfing ,M,15,Left foot & leg bitten,N,NA,19.808065,-155.894947
 1963,Unprovoked,USA,California,"Free diving, collecting sand dollars",M,NA,Calf bitten,N,Shovel-nosed guitarfish,36.778261,-119.417932
 1964,Boat,USA,Puerto Rico,Longline fishing,NA,NA,"No injury to occupant, shark bit propeller of outboard motor",N,Mako,18.220833,-66.590149
 1964,Unprovoked,USA,Florida,Swimming,M,14,Bruised & abraded ankle,N,NA,27.664827,-81.515754
@@ -1953,7 +1953,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1965,Unprovoked,USA,Texas,Dangling feet in the water,M,13,Foot bitten,N,NA,31.968599,-99.901813
 1965,Provoked,USA,California,Surfing,M,NA,Puncture wounds to foot when he stepped on a shark    PROVOKED INCIDENT,N,NA,36.778261,-119.417932
 1965,Provoked,USA,Florida,Collecting marine specimens,M,NA,"No injury, shark tore his wetsuit after he grabbed it by the tail  PROVOKED INCIDENT",N,Nurse ,27.664827,-81.515754
-1966,Provoked,USA,Hawaii,Fishing,M,20,Left elbow or hand bitten PROVOKED INCIDENT,N,NA,-14.270972,-170.132217
+1966,Provoked,USA,Hawaii,Fishing,M,20,Left elbow or hand bitten PROVOKED INCIDENT,N,NA,19.808065,-155.894947
 1966,Provoked,USA,Florida,Hunting crayfish ,M,14,Abdomen abraded when he seized shark PROVOKED INCIDENT,N,Nurse ,27.664827,-81.515754
 1966,Unprovoked,USA,Florida,Wading,M,8,"No injury, mother lifted him from the water",N,Blacktip,27.664827,-81.515754
 1966,Unprovoked,USA,Texas,Diving for sand dollars,M,16,Dorsum of right foot grazed,N,Lemon,31.968599,-99.901813
@@ -1981,8 +1981,8 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1968,Unprovoked,USA,Florida,NA,M,10,"Buttock, both legs & arm bitten",N,   silky ,27.664827,-81.515754
 1968,Unprovoked,USA,Florida,Surfing,M,20,Foot lacerated,N,NA,27.664827,-81.515754
 1968,Unprovoked,USA,Florida,Surfing,M,17,Foot lacerated,N,Bull   ,27.664827,-81.515754
-1969,Unprovoked,USA,Hawaii,Scuba diving for lobsters,M,NA,"Abrasions on upper leg, laceration on ankle, scuba tank bitten",N,NA,-14.270972,-170.132217
-1969,Unprovoked,USA,Hawaii,Diving,M,NA,No injury,N,Whitetip,-14.270972,-170.132217
+1969,Unprovoked,USA,Hawaii,Scuba diving for lobsters,M,NA,"Abrasions on upper leg, laceration on ankle, scuba tank bitten",N,NA,19.808065,-155.894947
+1969,Unprovoked,USA,Hawaii,Diving,M,NA,No injury,N,Whitetip,19.808065,-155.894947
 1969,Unprovoked,USA,California,Free diving for abalone,M,53,Leg & ankle severely bitten,N,White,36.778261,-119.417932
 1969,Unprovoked,USA,Florida,Floating on his back,M,NA,Laceration to right leg,N,NA,27.664827,-81.515754
 1969,Provoked,USA,Massachusetts,Fishing,M,28,Leg bitten by netted shark PROVOKED INCIDENT,N,NA,42.407211,-71.382437
@@ -1995,9 +1995,9 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1969,Provoked,USA,Texas,Surf-fishing,M,NA,Foot lacerated when he stepped on the shark  PROVOKED INCIDENT,N,NA,31.968599,-99.901813
 1969,Provoked,USA,Florida,Diving,M,23,Laceration to buttocks Recorded as PROVOKED INCIDENT,N,Nurse ,27.664827,-81.515754
 1969,Provoked,USA,Florida,Fishing,M,NA,Laceration to foot from dead shark PROVOKED INCIDENT,N,Lemon,27.664827,-81.515754
-1969,Unprovoked,USA,Hawaii,Surfing,M,16,Leg & surfboard bitten,N,White,-14.270972,-170.132217
-1970,Sea Disaster,USA,Hawaii,Shipwreck,M,41,Right thigh lacerated,N,NA,-14.270972,-170.132217
-1970,Unprovoked,USA,Hawaii,Body surfing,M,NA,Shoulder & arm bitten,N,NA,-14.270972,-170.132217
+1969,Unprovoked,USA,Hawaii,Surfing,M,16,Leg & surfboard bitten,N,White,19.808065,-155.894947
+1970,Sea Disaster,USA,Hawaii,Shipwreck,M,41,Right thigh lacerated,N,NA,19.808065,-155.894947
+1970,Unprovoked,USA,Hawaii,Body surfing,M,NA,Shoulder & arm bitten,N,NA,19.808065,-155.894947
 1970,Unprovoked,USA,Florida,Surfing,M,NA,Bitten on right leg above the ankle,N,NA,27.664827,-81.515754
 1970,Unprovoked,USA,Florida,Floating on a raft,M,18,Laceration to left foot,N,NA,27.664827,-81.515754
 1970,Unprovoked,USA,South Carolina,Swimming,M,NA,Foot lacerated,N,Smoothhound,33.836081,-81.163725
@@ -2013,14 +2013,14 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1972,Unprovoked,USA,Florida,Surfing,M,17,Survived,N,NA,27.664827,-81.515754
 1972,Unprovoked,USA,California,Surfing,M,NA,Legs & board bitten,N,White,36.778261,-119.417932
 1972,Unprovoked,USA,Florida,Surfing,M,15,Left calf bitten,N,NA,27.664827,-81.515754
-1972,Unprovoked,USA,Hawaii,Spearfishing,M,NA,Forearm bitten,N,NA,-14.270972,-170.132217
+1972,Unprovoked,USA,Hawaii,Spearfishing,M,NA,Forearm bitten,N,NA,19.808065,-155.894947
 1972,Unprovoked,USA,Florida,Surfing,M,22,Buttocks bitten,N,NA,27.664827,-81.515754
 1972,Unprovoked,USA,California,Free diving for abalone,M,32,Bitten on legs & buttock,N,White,36.778261,-119.417932
-1972,Unprovoked,USA,Hawaii,Spearfishing,M,NA,Leg bitten,N,NA,-14.270972,-170.132217
-1973,Unprovoked,USA,Hawaii,Swimming,M,NA,Leg bitten,N,NA,-14.270972,-170.132217
+1972,Unprovoked,USA,Hawaii,Spearfishing,M,NA,Leg bitten,N,NA,19.808065,-155.894947
+1973,Unprovoked,USA,Hawaii,Swimming,M,NA,Leg bitten,N,NA,19.808065,-155.894947
 1973,Unprovoked,USA,Florida,Surfing,M,13,Foot bitten,N,NA,27.664827,-81.515754
 1973,Unprovoked,USA,Virginia,Crabbing (spearing crabs),M,17,Elbow bitten,N,Blacktip,37.431573,-78.656894
-1973,Unprovoked,USA,Hawaii,Surfing,M,NA,Leg bitten,N,NA,-14.270972,-170.132217
+1973,Unprovoked,USA,Hawaii,Surfing,M,NA,Leg bitten,N,NA,19.808065,-155.894947
 1974,Unprovoked,USA,Florida,Standing,M,24,Laceration to foot,N,NA,27.664827,-81.515754
 1974,Unprovoked,USA,California,Surfing,M,17,"Thigh, lower back and surfboard bitten",N,White,36.778261,-119.417932
 1974,Unprovoked,USA,California,Hookah diving for abalone,M,29,Major injuries,N,White,36.778261,-119.417932
@@ -2063,21 +2063,21 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1976,Unprovoked,USA,Oregon,Surfing,M,19,"No injury, board bitten",N,White,43.804133,-120.554201
 1976,Unprovoked,USA,Florida,Spearfishing,M,24,Lacerations to forearms,N,NA,27.664827,-81.515754
 1976,Unprovoked,USA,Louisiana,Playing,M,10,Leg bitten,N,NA,31.244823,-92.145024
-1976,Unprovoked,USA,Hawaii,Scuba diving,M,18,"FATAL, disappeared while diving, lower portion of body recovered",Y,NA,-14.270972,-170.132217
+1976,Unprovoked,USA,Hawaii,Scuba diving,M,18,"FATAL, disappeared while diving, lower portion of body recovered",Y,NA,19.808065,-155.894947
 1976,Unprovoked,USA,Florida,Spearfishing,M,23,"""lost part of a finger""",N,NA,27.664827,-81.515754
 1976,Unprovoked,USA,Florida,Skindiving,M,17,Lacerations to right arm,N,NA,27.664827,-81.515754
-1976,Unprovoked,USA,Hawaii,Swimming,M,NA,Leg & foot bitten,N,NA,-14.270972,-170.132217
+1976,Unprovoked,USA,Hawaii,Swimming,M,NA,Leg & foot bitten,N,NA,19.808065,-155.894947
 1976,Unprovoked,USA,Florida,Standing,M,21,Lacerations to left leg,N,NA,27.664827,-81.515754
 1976,Unprovoked,USA,Florida,Spearfishing / scuba diving,M,25,Puncture wounds to head & neck,N,NA,27.664827,-81.515754
-1976,Unprovoked,USA,Hawaii,Scuba diving,M,NA,"FATAL, lost consciousness at depth of 180'. Large sharks seen near partial remains of body",Y,NA,-14.270972,-170.132217
-1977,Sea Disaster,USA,Hawaii,"Swimming, after single-engine aircraft went down in the sea",M,49,Feet lacerated,N,NA,-14.270972,-170.132217
+1976,Unprovoked,USA,Hawaii,Scuba diving,M,NA,"FATAL, lost consciousness at depth of 180'. Large sharks seen near partial remains of body",Y,NA,19.808065,-155.894947
+1977,Sea Disaster,USA,Hawaii,"Swimming, after single-engine aircraft went down in the sea",M,49,Feet lacerated,N,NA,19.808065,-155.894947
 1977,Unprovoked,USA,Florida,Surfing,M,27,Laceration to right hand,N,NA,27.664827,-81.515754
 1977,Unprovoked,USA,California,Free diving for abalone (surfacing),M,20,Leg lacerated,N,White,36.778261,-119.417932
 1977,Sea Disaster,USA,California,40' fishing boat sank,M,21,Laceration to right hand,N,NA,36.778261,-119.417932
 1977,Provoked,USA,Florida,Spearfishing / Scuba diving,M,27,"PROVOKED INCIDENT    Diver poked shark with spear, then shark bit his right foot",N,Bull   ,27.664827,-81.515754
 1977,Unprovoked,USA,Texas,Collecting fish from net,M,25,Lacerations to wrist,N,Bull   ,31.968599,-99.901813
-1977,Unprovoked,USA,Hawaii,Swimming,M,NA,Arm bitten,N,NA,-14.270972,-170.132217
-1978,Unprovoked,USA,Hawaii,Surfing,M,NA,Left arm bitten,N,NA,-14.270972,-170.132217
+1977,Unprovoked,USA,Hawaii,Swimming,M,NA,Arm bitten,N,NA,19.808065,-155.894947
+1978,Unprovoked,USA,Hawaii,Surfing,M,NA,Left arm bitten,N,NA,19.808065,-155.894947
 1978,Unprovoked,USA,Florida,Surfing,M,17,Hand lacerated,N,NA,27.664827,-81.515754
 1978,Unprovoked,USA,California,Wading,M,NA,Punctures on leg (minor injury),N,NA,36.778261,-119.417932
 1978,Unprovoked,USA,Florida,Floating on inner tube raft,M,27,Minor injury to ankle,N,NA,27.664827,-81.515754
@@ -2093,19 +2093,19 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1979,Unprovoked,USA,Florida,Body surfing,M,8,Right foot bitten,N,NA,27.664827,-81.515754
 1979,Unprovoked,USA,Florida,Surfing,M,27,Foot & ankle bitten,N,Blacktip,27.664827,-81.515754
 1979,Unprovoked,USA,California,Scuba diving (submerged),M,NA,"No injury, swim fin bitten",N,White,36.778261,-119.417932
-1979,Unprovoked,USA,Hawaii,Fishing,M,NA,"FATAL, disappeared while fishing from shore, divers recovered his hand",Y,NA,-14.270972,-170.132217
+1979,Unprovoked,USA,Hawaii,Fishing,M,NA,"FATAL, disappeared while fishing from shore, divers recovered his hand",Y,NA,19.808065,-155.894947
 1980,Unprovoked,USA,Oregon,Surfing,M,29,Thigh lacerated,N,White,43.804133,-120.554201
 1980,Unprovoked,USA,California,Surfing,M,19,No injury,N,White,36.778261,-119.417932
 1980,Unprovoked,USA,North Carolina,Wading,F,10,Bitten behind knee & lower leg,N,NA,35.759573,-79.0193
-1980,Unprovoked,USA,Hawaii,Resting on body board,M,NA,Torso bitten,N,Tiger   ,-14.270972,-170.132217
+1980,Unprovoked,USA,Hawaii,Resting on body board,M,NA,Torso bitten,N,Tiger   ,19.808065,-155.894947
 1980,Unprovoked,USA,New Jersey,Body surfing,M,15,Back bitten,N,NA,40.058324,-74.405661
 1980,Unprovoked,USA,Delaware,Standing,F,22,"No injury, shark bit her bathing suit",N,NA,38.910832,-75.52767
 1980,Unprovoked,USA,North Carolina,Surfing,M,NA,"No injury, bumped off board",N,NA,35.759573,-79.0193
 1980,Unprovoked,USA,Florida,Surfing,M,NA,Lower leg bitten,N,NA,27.664827,-81.515754
 1980,Provoked,USA,California,Scuba diving,F,44,Laceration to lower leg   PROVOKED INCIDENT,N,Blue ,36.778261,-119.417932
 1981,Unprovoked,USA,California,Surfing,M,24,"FATAL, torso bitten ",Y,White,36.778261,-119.417932
-1981,Unprovoked,USA,Hawaii,"Spearfishing, but swimming on surface",M,NA,Right leg severely bitten,N,Tiger   ,-14.270972,-170.132217
-1981,Unprovoked,USA,Hawaii,Diving to untangle a crab trap line from boat's propeller,M,59,Hand bitten,N,NA,-14.270972,-170.132217
+1981,Unprovoked,USA,Hawaii,"Spearfishing, but swimming on surface",M,NA,Right leg severely bitten,N,Tiger   ,19.808065,-155.894947
+1981,Unprovoked,USA,Hawaii,Diving to untangle a crab trap line from boat's propeller,M,59,Hand bitten,N,NA,19.808065,-155.894947
 1981,Unprovoked,USA,Florida,Swimming,M,19,Hand & forearm bitten,N,NA,27.664827,-81.515754
 1981,Unprovoked,USA,Florida,Surfing,M,NA,No details,NA,NA,27.664827,-81.515754
 1981,Unprovoked,USA,Florida,Surfing,M,17,Puncture wounds to left foot,N,NA,27.664827,-81.515754
@@ -2121,7 +2121,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1981,Unprovoked,USA,Florida,"16' catamaran capsized previous night, occupants stayed with wreckage until morning, then attempted to swim ashore",F,19,FATAL,Y,NA,27.664827,-81.515754
 1981,Unprovoked,USA,Florida,Swimming,F,16,"Foot bitten between arch & big toe, no stitches required",N,Sandtiger,27.664827,-81.515754
 1981,Unprovoked,USA,Florida,Spearfishing,M,NA,Left foot & ankle lacerated,N,NA,27.664827,-81.515754
-1981,Unprovoked,USA,Hawaii,"Scuba diving, reportedly also spearfishing",M,NA,"FATAL, disappeared, dive gear & shredded tooth-marked wetsuit were recovered",Y,NA,-14.270972,-170.132217
+1981,Unprovoked,USA,Hawaii,"Scuba diving, reportedly also spearfishing",M,NA,"FATAL, disappeared, dive gear & shredded tooth-marked wetsuit were recovered",Y,NA,19.808065,-155.894947
 1981,Unprovoked,USA,Florida,Free diving,M,32,Massive tissue damage of left arm,N,NA,27.664827,-81.515754
 1981,Unprovoked,USA,Florida,Diving,M,NA,Left arm bitten,N,Lemon,27.664827,-81.515754
 1981,Unprovoked,USA,Florida,Standing / Wading,M,19,"Lacerations on calf, ankle & heel",N,Bull   ,27.664827,-81.515754
@@ -2138,11 +2138,11 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1982,Unprovoked,USA,Florida,Swimming,F,19,Laceration to left leg,N,NA,27.664827,-81.515754
 1982,Unprovoked,USA,South Carolina,Swimming,M,20,Left arm bitten,N,NA,33.836081,-81.163725
 1982,Unprovoked,USA,Florida,NA,F,8,Foot bitten,N,NA,27.664827,-81.515754
-1982,Unprovoked,USA,Hawaii,"Sailboarding, fell into water 100 yards outside the breakwater",M,NA,Thigh bitten 3 times,N,NA,-14.270972,-170.132217
+1982,Unprovoked,USA,Hawaii,"Sailboarding, fell into water 100 yards outside the breakwater",M,NA,Thigh bitten 3 times,N,NA,19.808065,-155.894947
 1982,Unprovoked,USA,Florida,Surfing,M,16,Elbow bitten,N,NA,27.664827,-81.515754
 1982,Unprovoked,USA,Florida,Surfing,M,18,Lacerations to left hand and forearm,N,NA,27.664827,-81.515754
-1982,Unprovoked,USA,Hawaii,Wading,F,NA,Left leg bitten,N,NA,-14.270972,-170.132217
-1982,Unprovoked,USA,Hawaii,Swimming,F,NA,Right foot bitten,N,NA,-14.270972,-170.132217
+1982,Unprovoked,USA,Hawaii,Wading,F,NA,Left leg bitten,N,NA,19.808065,-155.894947
+1982,Unprovoked,USA,Hawaii,Swimming,F,NA,Right foot bitten,N,NA,19.808065,-155.894947
 1982,Unprovoked,USA,Florida,Swimming,F,75,Shark-bitten body found floating 1.5 miles offshore. Bruises suggested she may have been bitten by the shark before drowning,Y,NA,27.664827,-81.515754
 1982,Unprovoked,USA,California,Scuba diving (submerged),M,NA,Calf & ankle bitten,N,White,36.778261,-119.417932
 1982,Unprovoked,USA,Florida,Diving,M,29,"FATAL Disappeared while diving, bathing suit & diving gear recovered bore marks of shark's teeth",Y,NA,27.664827,-81.515754
@@ -2183,15 +2183,15 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1984,Unprovoked,USA,Texas,Swimming,F,13,Lacerations on right foot,N,NA,31.968599,-99.901813
 1984,Unprovoked,USA,Texas,Swimming,F,18,Legs severely lacerated,N,NA,31.968599,-99.901813
 1984,Unprovoked,USA,Florida,"During a shark fishing tournament, the 18' Boatem was capsized by waves, throwing 3 men into the water ",M,30,Leg abraded,N,NA,27.664827,-81.515754
-1984,Unprovoked,USA,Hawaii,Towing her sister on plastic ski board,F,13,Foot bitten,N,Hammerhead ,-14.270972,-170.132217
+1984,Unprovoked,USA,Hawaii,Towing her sister on plastic ski board,F,13,Foot bitten,N,Hammerhead ,19.808065,-155.894947
 1984,Provoked,USA,California,Steinhart Aquarium,M,NA,Head mouthed by captive shark PROVOKED INCIDENT,N,Sevengill ,36.778261,-119.417932
 1984,Unprovoked,USA,Florida,Surfing,M,NA,Right foot bitten,N,NA,27.664827,-81.515754
 1985,Unprovoked,USA,North Carolina,NA,M,NA,Survived,N,Sandtiger,35.759573,-79.0193
 1985,Boat,USA,California,Boat,NA,NA,2 semi-circular bites on aft starboard tube of boat,N,White,36.778261,-119.417932
 1985,Provoked,USA,California,Fishing,M,24,Forearm bitten by hooked shark PROVOKED INCIDENT,N,NA,36.778261,-119.417932
 1985,Unprovoked,USA,California,Hookah diving for abalone,M,46,Minor injury to foot & ankle,N,Sevengill ,36.778261,-119.417932
-1985,Unprovoked,USA,Hawaii,Body boarding,M,33,"Right hand and part of forearm severed , left hand lacerated, right anterior side of board removed by shark",N,Tiger   ,-14.270972,-170.132217
-1985,Unprovoked,USA,Hawaii,Floating on inner tube after diving for lobster,M,24,Left arm lacerated,N,NA,-14.270972,-170.132217
+1985,Unprovoked,USA,Hawaii,Body boarding,M,33,"Right hand and part of forearm severed , left hand lacerated, right anterior side of board removed by shark",N,Tiger   ,19.808065,-155.894947
+1985,Unprovoked,USA,Hawaii,Floating on inner tube after diving for lobster,M,24,Left arm lacerated,N,NA,19.808065,-155.894947
 1985,Provoked,USA,Alabama,Fishing,M,NA,Laceration to leg by hooked shark  PROVOKED INCIDENT,N,NA,32.318231,-86.902298
 1985,Unprovoked,USA,California,Free diving & spearfishing (descending),M,NA,"Hip bumped by shark, no Injury",N,White,36.778261,-119.417932
 1985,Unprovoked,USA,Florida,Scuba diving,M,NA,Laceration and 4 puncture wounds to left hand,N,  silky ,27.664827,-81.515754
@@ -2214,7 +2214,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1986,Unprovoked,USA,Florida,Surfing,NA,18,Hand bitten,N,NA,27.664827,-81.515754
 1986,Unprovoked,USA,North Carolina,Surfing,NA,16,Hand bitten,N,NA,35.759573,-79.0193
 1986,Unprovoked,USA,South Carolina,NA,M,8,Back of left thigh bitten,N,NA,33.836081,-81.163725
-1986,Unprovoked,USA,Hawaii,"Fishing, fell from rocks & disappeared",M,NA,Pieces of clothing & human flesh recovered by Fire Department divers who encountered a large shark,Y,NA,-14.270972,-170.132217
+1986,Unprovoked,USA,Hawaii,"Fishing, fell from rocks & disappeared",M,NA,Pieces of clothing & human flesh recovered by Fire Department divers who encountered a large shark,Y,NA,19.808065,-155.894947
 1986,Unprovoked,USA,Florida,Surfing,M,22,Puncture wounds to both feet,N,Blacktip,27.664827,-81.515754
 1986,Unprovoked,USA,California,Surfing,M,16,"No injury, foot bumped",N,NA,36.778261,-119.417932
 1987,Unprovoked,USA,Florida,Surfing,M,16,Left calf bitten,N,Blacktip,27.664827,-81.515754
@@ -2230,7 +2230,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1987,Unprovoked,USA,South Carolina,NA,M,12,"6"" cut to thigh",N,NA,33.836081,-81.163725
 1987,Unprovoked,USA,Florida,Surfing,M,NA,Hand lacerated  ,N,NA,27.664827,-81.515754
 1987,Unprovoked,USA,Texas,Swimming,F,16,Right arm severed above elbow,N,NA,31.968599,-99.901813
-1987,Unprovoked,USA,Hawaii,Swimming from shore to anchored sailboat,M,NA,"Presumed FATAL Disappeared, his shark-bitten swim trunks were found on the seafloor",Y,NA,-14.270972,-170.132217
+1987,Unprovoked,USA,Hawaii,Swimming from shore to anchored sailboat,M,NA,"Presumed FATAL Disappeared, his shark-bitten swim trunks were found on the seafloor",Y,NA,19.808065,-155.894947
 1987,Unprovoked,USA,Florida,Windsurfing,M,NA,"Lacerations to toe, heel & ankle of right foot",N,Blacktip,27.664827,-81.515754
 1988,Unprovoked,USA,Oregon,Surfing (sitting on his board),M,21,Leg bitten & femur fractured,N,White,43.804133,-120.554201
 1988,Unprovoked,USA,Florida,Surfing,M,15,Lacerations to left thigh,N,NA,27.664827,-81.515754
@@ -2255,9 +2255,9 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1988,Unprovoked,USA,Florida,Surfing,M,14,Right hand bitten,N,NA,27.664827,-81.515754
 1988,Unprovoked,USA,Florida,Windsurfing,M,NA,"6"" laceration to left foot",N,NA,27.664827,-81.515754
 1988,Unprovoked,USA,Florida,Standing ,F,30,Foot bitten,N,NA,27.664827,-81.515754
-1988,Unprovoked,USA,Hawaii,Body surfing,M,NA,Ankle bitten,N,NA,-14.270972,-170.132217
+1988,Unprovoked,USA,Hawaii,Body surfing,M,NA,Ankle bitten,N,NA,19.808065,-155.894947
 1988,Provoked,USA,Louisiana,Fishing,M,NA,Hand bitten by captured shark PROVOKED INCIDENT,N,Mako,31.244823,-92.145024
-1989,Provoked,USA,Hawaii,On board 51' fishing vessel One Ki,M,NA,Left leg & foot bitten  by shark brought onboard. PROVOKED INCIDENT,N,NA,-14.270972,-170.132217
+1989,Provoked,USA,Hawaii,On board 51' fishing vessel One Ki,M,NA,Left leg & foot bitten  by shark brought onboard. PROVOKED INCIDENT,N,NA,19.808065,-155.894947
 1989,Unprovoked,USA,Texas,Surfing,M,12,Foot & leg bitten,N,NA,31.968599,-99.901813
 1989,Provoked,USA,Florida,"Fishing, stepped on hooked shark's head",M,51,Bitten by hooked shark PROVOKED INCIDENT,N,NA,27.664827,-81.515754
 1989,Boat,USA,California,Observing a shark feeding on a carcass of a humpback whale,NA,NA,No injury to occupants. Shark bit boat's swim step & repeatedly pushed the boat away whenever if came within 4 to 5 m of the whale carcass,N,White,36.778261,-119.417932
@@ -2267,23 +2267,23 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1989,Unprovoked,USA,Florida,Swimming,M,21,3 wounds on left hand,N,NA,27.664827,-81.515754
 1989,Unprovoked,USA,Florida,Surfing,M,16,5-inch gash on left leg,N,NA,27.664827,-81.515754
 1989,Unprovoked,USA,Texas,Playing ,F,9,Leg bitten,N,NA,31.968599,-99.901813
-1989,Unprovoked,USA,Hawaii,Fell off surfboard 20' from shore,M,NA,Foot & ankle severely bitten,N,NA,-14.270972,-170.132217
+1989,Unprovoked,USA,Hawaii,Fell off surfboard 20' from shore,M,NA,Foot & ankle severely bitten,N,NA,19.808065,-155.894947
 1989,Unprovoked,USA,Louisiana,Spearfishing,M,45,Puncture wounds & lacerations to both legs,N,Sandtiger,31.244823,-92.145024
 1989,Unprovoked,USA,Florida,Swimming,M,19,Right calf bitten,N,NA,27.664827,-81.515754
 1989,Unprovoked,USA,Washington,Surfing (lying prone on his board),M,NA,Forearm bitten,N,White,47.751074,-120.740139
 1989,Boat,USA,California,NA,NA,NA,No injury to occupants. Shark rammed boat 4 times,N,White,36.778261,-119.417932
-1989,Unprovoked,USA,Hawaii,Paddling on surfboard,M,NA,Calf lacerated,N,NA,-14.270972,-170.132217
-1989,Unprovoked,USA,Hawaii,Paddling on surfboard,M,NA,"Board rammed by shark, skegs knocked loose & 5' strip of fiberglass torn off, thigh scratched by shark?s teeth",N,NA,-14.270972,-170.132217
+1989,Unprovoked,USA,Hawaii,Paddling on surfboard,M,NA,Calf lacerated,N,NA,19.808065,-155.894947
+1989,Unprovoked,USA,Hawaii,Paddling on surfboard,M,NA,"Board rammed by shark, skegs knocked loose & 5' strip of fiberglass torn off, thigh scratched by shark?s teeth",N,NA,19.808065,-155.894947
 1989,Unprovoked,USA,California,Kayaking,F,24,"FATAL, thigh bitten, hands lacerated  ",Y,White,36.778261,-119.417932
-1989,Unprovoked,USA,Hawaii,Body boarding,M,10,Foot bitten,N,Hammerhead ,-14.270972,-170.132217
-1989,Unprovoked,USA,Hawaii,Swimming in strong current with 3 others when he disappeared,M,NA,"Lower part of body found 6 days later, x-rays revealed teeth marks in femur & tibia",Y,NA,-14.270972,-170.132217
+1989,Unprovoked,USA,Hawaii,Body boarding,M,10,Foot bitten,N,Hammerhead ,19.808065,-155.894947
+1989,Unprovoked,USA,Hawaii,Swimming in strong current with 3 others when he disappeared,M,NA,"Lower part of body found 6 days later, x-rays revealed teeth marks in femur & tibia",Y,NA,19.808065,-155.894947
 1989,Unprovoked,USA,Virginia,Spearfishing using scuba & trailing a string of bleeding fish,M,NA,"No injury, shark grabbed his fish and chased him to the boat",N,NA,37.431573,-78.656894
 1990,Unprovoked,USA,California,Scuba diving (but on surface),F,NA,Leg bitten,N,White,36.778261,-119.417932
 1990,Unprovoked,USA,Florida,Surfing,M,24,"Ear, shoulder, arm, wrist & ear injured",N,NA,27.664827,-81.515754
 1990,Unprovoked,USA,Florida,Surfing,M,50,"Hand & wrist bitten, tooth fragments in wound",N,NA,27.664827,-81.515754
 1990,Unprovoked,USA,Florida,Surfing,M,18,Cuts on left foot ,N,NA,27.664827,-81.515754
 1990,Unprovoked,USA,Florida,Surfing,M,25,Wrist bitten,N,Blacktip,27.664827,-81.515754
-1990,Unprovoked,USA,Hawaii,Surfing,M,43,"No Injury, board bitten",N,Tiger   ,-14.270972,-170.132217
+1990,Unprovoked,USA,Hawaii,Surfing,M,43,"No Injury, board bitten",N,Tiger   ,19.808065,-155.894947
 1990,Unprovoked,USA,Florida,Surfing,M,19,Superficial injuries to left foot & ankle,N,NA,27.664827,-81.515754
 1990,Unprovoked,USA,California,"Free diving / spearfishing, from paddleboard & floating on the surface",M,49,"Shark rammed & overturned paddleboard, knocking him into water & bit his head, lacerating his face & neck",N,White,36.778261,-119.417932
 1990,Boat,USA,California,Kayaking,M,44,"No injury, kayak capsized",N,White,36.778261,-119.417932
@@ -2292,15 +2292,15 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1990,Unprovoked,USA,Texas,Wade fishing,M,18,Minor injury,N,NA,31.968599,-99.901813
 1990,Unprovoked,USA,Texas,Wading,F,53,10-inch laceration to right foot,N,NA,31.968599,-99.901813
 1990,Unprovoked,USA,Florida,Surfing,M,17,Minor injury to left ankle & foot,N,NA,27.664827,-81.515754
-1990,Unprovoked,USA,Hawaii,Sitting on surfboard,M,NA,"Ankle lacerated, lower left leg severely abraded ",N,NA,-14.270972,-170.132217
-1990,Unprovoked,USA,Hawaii,Scuba diving & spearfishing,M,NA,Right arm severed  FATAL,Y,NA,-14.270972,-170.132217
+1990,Unprovoked,USA,Hawaii,Sitting on surfboard,M,NA,"Ankle lacerated, lower left leg severely abraded ",N,NA,19.808065,-155.894947
+1990,Unprovoked,USA,Hawaii,Scuba diving & spearfishing,M,NA,Right arm severed  FATAL,Y,NA,19.808065,-155.894947
 1990,Unprovoked,USA,Florida,Board sailing,M,33,Foot bitten,N,NA,27.664827,-81.515754
 1990,Unprovoked,USA,California,Surfing (sitting on his board),M,NA,"No injury, board bitten",N,White,36.778261,-119.417932
 1990,Unprovoked,USA,Florida,Surfing,M,17,NA,NA,NA,27.664827,-81.515754
 1991,Unprovoked,USA,California,Hookah diving for sea urchins,M,25,"No injury, shark became tangled in hose & towed him 100'",N,White,36.778261,-119.417932
-1991,Unprovoked,USA,Hawaii,Snorkeling,F,41,"FATAL, right leg at hip, left leg and right forearm severed  ",Y,Tiger   ,-14.270972,-170.132217
-1991,Unprovoked,USA,Hawaii,Snorkeling,F,NA,Right calf abraded,N,Tiger   ,-14.270972,-170.132217
-1991,Unprovoked,USA,Hawaii,"Fishing from rocks, swept out to sea by large wave & treading water",M,NA,"Body not recovered, shorts found indicating shark bite on left side",Y,Tiger   ,-14.270972,-170.132217
+1991,Unprovoked,USA,Hawaii,Snorkeling,F,41,"FATAL, right leg at hip, left leg and right forearm severed  ",Y,Tiger   ,19.808065,-155.894947
+1991,Unprovoked,USA,Hawaii,Snorkeling,F,NA,Right calf abraded,N,Tiger   ,19.808065,-155.894947
+1991,Unprovoked,USA,Hawaii,"Fishing from rocks, swept out to sea by large wave & treading water",M,NA,"Body not recovered, shorts found indicating shark bite on left side",Y,Tiger   ,19.808065,-155.894947
 1991,Provoked,USA,Florida,Fishing,M,NA,Hand bitten as he was cleaning hooked shark PROVOKED INCIDENT,N,NA,27.664827,-81.515754
 1991,Unprovoked,USA,Florida,Surfing,M,21,Right foot & ankle lacerated,N,NA,27.664827,-81.515754
 1991,Unprovoked,USA,California,Surfing,M,32,"Arm, shoulder & back bitten",N,White,36.778261,-119.417932
@@ -2313,63 +2313,63 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1991,Unprovoked,USA,California,Surfing,M,32,"Forearm, upper thigh, knee & ankle lacerated",N,White,36.778261,-119.417932
 1991,Unprovoked,USA,Florida,Surfing,M,18,Hand bitten,N,NA,27.664827,-81.515754
 1991,Unprovoked,USA,Florida,Swimming behind sailboat,M,31,"Left ankle, calf, thigh and abdomen bitten",N,Bull   ,27.664827,-81.515754
-1991,Unprovoked,USA,Hawaii,Sitting on surfboard,M,23,Right calf bitten,N,NA,-14.270972,-170.132217
+1991,Unprovoked,USA,Hawaii,Sitting on surfboard,M,23,Right calf bitten,N,NA,19.808065,-155.894947
 1991,Provoked,USA,Maryland,Diving,NA,NA,Minor injury by captive shark PROVOKED INCIDENT,N,NA,39.045755,-76.641271
 1991,Unprovoked,USA,Florida,"Surfing, collided with shark",M,22,Right thigh,N,NA,27.664827,-81.515754
-1991,Unprovoked,USA,Hawaii,Sitting on surfboard,M,NA,Deep lacerations to calf & ankle,N,NA,-14.270972,-170.132217
+1991,Unprovoked,USA,Hawaii,Sitting on surfboard,M,NA,Deep lacerations to calf & ankle,N,NA,19.808065,-155.894947
 1991,Unprovoked,USA,Oregon,Surfing,M,38,Calf lacerated & board bitten,N,White,43.804133,-120.554201
-1992,Unprovoked,USA,Hawaii,"Standing in waist-deep water, helping his father tend a gill net containing dead fish",M,10,Right leg bruised & abraded,N,Tiger   ,-14.270972,-170.132217
-1992,Unprovoked,USA,Hawaii,Lying on surfboard,M,30,"Minor lacerations to hand, 15"" crescent-shaped piece removed from surfboard",N,Tiger   ,-14.270972,-170.132217
+1992,Unprovoked,USA,Hawaii,"Standing in waist-deep water, helping his father tend a gill net containing dead fish",M,10,Right leg bruised & abraded,N,Tiger   ,19.808065,-155.894947
+1992,Unprovoked,USA,Hawaii,Lying on surfboard,M,30,"Minor lacerations to hand, 15"" crescent-shaped piece removed from surfboard",N,Tiger   ,19.808065,-155.894947
 1992,Unprovoked,USA,California,Spearfishing / free diving,M,31,10 puncture wounds to right calf,N,Mako,36.778261,-119.417932
 1992,Unprovoked,USA,Florida,Surfing,M,19,Forearm  & hand bitten; tooth fragments of the shark were recovered from the surfer's hand,N,Blacktip,27.664827,-81.515754
 1992,Unprovoked,USA,Florida,Surfing,M,24,Right ankle bitten,N,NA,27.664827,-81.515754
 1992,Boat,USA,California,Kayaking,M,46,"No injury, kayak bitten",N,White,36.778261,-119.417932
 1992,Unprovoked,USA,California,Scuba diving (submerged),M,40,Foot punctured,N,NA,36.778261,-119.417932
 1992,Unprovoked,USA,Florida,Surfing,M,17,Heel bitten,N,NA,27.664827,-81.515754
-1992,Unprovoked,USA,Hawaii,Body boarding,M,18,Right leg severely lacerated  FATAL,Y,Tiger   ,-14.270972,-170.132217
+1992,Unprovoked,USA,Hawaii,Body boarding,M,18,Right leg severely lacerated  FATAL,Y,Tiger   ,19.808065,-155.894947
 1992,Unprovoked,USA,California,Hookah diving for sea urchins,M,40,Foot & swim fin punctured,N,White,36.778261,-119.417932
-1992,Unprovoked,USA,Hawaii,Surfing,M,28,"Chest & arm bruised & scratched, 15"" crescent-shaped piece removed from board",N,Tiger   ,-14.270972,-170.132217
+1992,Unprovoked,USA,Hawaii,Surfing,M,28,"Chest & arm bruised & scratched, 15"" crescent-shaped piece removed from board",N,Tiger   ,19.808065,-155.894947
 1992,Unprovoked,USA,Oregon,Surfing,M,20,Minor bruises,N,White,43.804133,-120.554201
 1992,Unprovoked,USA,Florida,Standing,F,18,Right ankle & calf bitten,N,NA,27.664827,-81.515754
 1992,Unprovoked,USA,Florida,Surf fishing,M,NA,"Foot bitten, 8 stitches needed to repair the wound",N,NA,27.664827,-81.515754
 1992,Unprovoked,USA,California,Surfing,M,22,"No injury, board bitten",N,White,36.778261,-119.417932
 1992,Provoked,USA,Florida,Snorkeling,M,26,"Grabbed metal leader to shark, shark clamped on  & bit  left bicep PROVOKED INCIDENT",N,Nurse ,27.664827,-81.515754
 1992,Unprovoked,USA,Florida,Standing,F,42,Lacerations to left foot,N,NA,27.664827,-81.515754
-1992,Unprovoked,USA,Hawaii,"Surfing, paddling seawards",F,36,"Foot bitten, crescent of bitemarks in both sides of board",N,Tiger   ,-14.270972,-170.132217
+1992,Unprovoked,USA,Hawaii,"Surfing, paddling seawards",F,36,"Foot bitten, crescent of bitemarks in both sides of board",N,Tiger   ,19.808065,-155.894947
 1992,Unprovoked,USA,Oregon,Surfing (sitting on his board),M,21,"Left shoulder & side bitten, board broken",N,White,43.804133,-120.554201
-1992,Unprovoked,USA,Hawaii,Body boarding,M,NA,FATAL Disappeared. His board washed ashore next morning with crescent-shaped piece missing and serrated toothmarks of a shark,Y,Tiger   ,-14.270972,-170.132217
-1993,Unprovoked,USA,Hawaii,Surfing,M,NA,FATAL,Y,Whitetip,-14.270972,-170.132217
+1992,Unprovoked,USA,Hawaii,Body boarding,M,NA,FATAL Disappeared. His board washed ashore next morning with crescent-shaped piece missing and serrated toothmarks of a shark,Y,Tiger   ,19.808065,-155.894947
+1993,Unprovoked,USA,Hawaii,Surfing,M,NA,FATAL,Y,Whitetip,19.808065,-155.894947
 1993,Unprovoked,USA,Florida,Swimming,M,30,"""Minor cuts to left leg""",N,NA,27.664827,-81.515754
-1993,Unprovoked,USA,Hawaii,"Surfing, paddling shorewards",M,NA,Left leg severely bitten,N,NA,-14.270972,-170.132217
+1993,Unprovoked,USA,Hawaii,"Surfing, paddling shorewards",M,NA,Left leg severely bitten,N,NA,19.808065,-155.894947
 1993,Unprovoked,USA,California,Surfing,M,26,Serious injury to left leg,N,White,36.778261,-119.417932
 1993,Unprovoked,USA,Florida,Swimming,F,26,Thigh & hand lacerated,N,Bull   ,27.664827,-81.515754
 1993,Boat,USA,California,Kayaking,F,34,"No Injury, Kayak holed",N,White,36.778261,-119.417932
-1993,Unprovoked,USA,Hawaii,Surfing,NA,NA,Serious leg wounds,N,Tiger   ,-14.270972,-170.132217
+1993,Unprovoked,USA,Hawaii,Surfing,NA,NA,Serious leg wounds,N,Tiger   ,19.808065,-155.894947
 1993,Unprovoked,USA,Florida,Wading,M,19,Left foot bitten,N,NA,27.664827,-81.515754
 1993,Unprovoked,USA,Florida,NA,M,16,Left foot bitten,N,NA,27.664827,-81.515754
 1993,Unprovoked,USA,Florida,Surfing,NA,13,Right foot bitten,N,NA,27.664827,-81.515754
-1993,Unprovoked,USA,Hawaii,"Surfing, paddling seawards",M,NA,Abrasions & board bitten,N,NA,-14.270972,-170.132217
+1993,Unprovoked,USA,Hawaii,"Surfing, paddling seawards",M,NA,Abrasions & board bitten,N,NA,19.808065,-155.894947
 1993,Boat,USA,California,Watching the shark feeding on a dead pinniped,NA,NA,No injury to occupants; shark circled boat repeatedly then rammed the vessel 3 times,N,White,36.778261,-119.417932
 1993,Unprovoked,USA,North Carolina,Riding floatation device,F,19,Severe lacerations to abdomen & thighs,N,Bull   ,35.759573,-79.0193
 1993,Unprovoked,USA,California,Free diving for abalone (ascending),M,39,Severe bites to head & shoulder,N,White,36.778261,-119.417932
 1993,Unprovoked,USA,Florida,Playing,F,12,Right knee bitten,N,NA,27.664827,-81.515754
-1993,Unprovoked,USA,Hawaii,Paddling on surfboard or body board,M,22,Feet & ankles bitten,N,Tiger   ,-14.270972,-170.132217
+1993,Unprovoked,USA,Hawaii,Paddling on surfboard or body board,M,22,Feet & ankles bitten,N,Tiger   ,19.808065,-155.894947
 1993,Unprovoked,USA,North Carolina,Swimming,F,60,"No injury, bumped by shark",N,NA,35.759573,-79.0193
 1993,Unprovoked,USA,Florida,Floating on his back,M,25,Both feet lacerated,N,NA,27.664827,-81.515754
-1993,Unprovoked,USA,Hawaii,Paddling on surfboard,M,35,Lower legs lacerated ,N,Tiger   ,-14.270972,-170.132217
+1993,Unprovoked,USA,Hawaii,Paddling on surfboard,M,35,Lower legs lacerated ,N,Tiger   ,19.808065,-155.894947
 1993,Unprovoked,USA,California,Free diving & spearfishing (ascending),M,55,"No injury, swim fin bitten",N,White,36.778261,-119.417932
 1993,Unprovoked,USA,Oregon,Surfing,M,29,"No injury, shark bit board",N,White,43.804133,-120.554201
 1993,Unprovoked,USA,Florida,Snorkeling,NA,NA,Survived,N,Lemon,27.664827,-81.515754
-1994,Unprovoked,USA,Hawaii,"Surfing, sitting on board",NA,NA,"No injury, shark bit surfboard",N,NA,-14.270972,-170.132217
+1994,Unprovoked,USA,Hawaii,"Surfing, sitting on board",NA,NA,"No injury, shark bit surfboard",N,NA,19.808065,-155.894947
 1994,Unprovoked,USA,California,Commercial diver (submerged or treading water),M,42,"FATAL, right leg nearly severed, puncture wounds to left leg ",Y,White,36.778261,-119.417932
-1994,Unprovoked,USA,Hawaii,"Surfing, paddling seawards",F,34,Right thigh & board bitten,N,NA,-14.270972,-170.132217
-1994,Unprovoked,USA,Hawaii,Surfing,NA,NA,"No injury, shark bit surfboard",N,NA,-14.270972,-170.132217
+1994,Unprovoked,USA,Hawaii,"Surfing, paddling seawards",F,34,Right thigh & board bitten,N,NA,19.808065,-155.894947
+1994,Unprovoked,USA,Hawaii,Surfing,NA,NA,"No injury, shark bit surfboard",N,NA,19.808065,-155.894947
 1994,Provoked,USA,Florida,Wading,F,9,Ankle bitten when she accidently stepped on the shark  PROVOKED INCIDENT,N,Sandtiger,27.664827,-81.515754
 1994,Unprovoked,USA,Florida,Surfing,M,16,Foot bitten,N,NA,27.664827,-81.515754
 1994,Unprovoked,USA,South Carolina,Swimming,F,30,Right side of abdomen & left hand bitten,N,NA,33.836081,-81.163725
 1994,Unprovoked,USA,Oregon,Surfing,M,43,"No injury, surfboard bitten",N,White,43.804133,-120.554201
 1994,Sea Disaster,USA,Florida,Adrift on refugee raft,M,NA,FATAL,Y,NA,27.664827,-81.515754
-1994,Unprovoked,USA,Hawaii,Jumped off rocks into white water,F,12,Left calf bitten,N,NA,-14.270972,-170.132217
+1994,Unprovoked,USA,Hawaii,Jumped off rocks into white water,F,12,Left calf bitten,N,NA,19.808065,-155.894947
 1994,Unprovoked,USA,Florida,Surfing,M,15,Right calf lacerated,N,NA,27.664827,-81.515754
 1994,Unprovoked,USA,Florida,Surfing,M,24,Foot lacerated,N,NA,27.664827,-81.515754
 1994,Unprovoked,USA,Florida,Surfing,M,28,Right foot lacerated,N,Blacktip,27.664827,-81.515754
@@ -2380,11 +2380,11 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1994,Unprovoked,USA,Florida,Freediving for seashells,M,71,Left shoulder lacerated,N,NA,27.664827,-81.515754
 1994,Provoked,USA,California,Removing shark from tank in nightclub ,M,33,Arm lacerated by captive shark PROVOKED INCIDENT,N,Lemon,36.778261,-119.417932
 1994,Unprovoked,USA,Florida,Surfing,M,23,Left foot bitten,N,NA,27.664827,-81.515754
-1994,Provoked,USA,Hawaii,Fishing,M,NA,Arm bitten while trying to secure shark caught by navy personnel from vessel PROVOKED INCIDENT,N,NA,-14.270972,-170.132217
-1994,Unprovoked,USA,Hawaii,Surfing,M,NA,FATAL,Y,Tiger   ,-14.270972,-170.132217
+1994,Provoked,USA,Hawaii,Fishing,M,NA,Arm bitten while trying to secure shark caught by navy personnel from vessel PROVOKED INCIDENT,N,NA,19.808065,-155.894947
+1994,Unprovoked,USA,Hawaii,Surfing,M,NA,FATAL,Y,Tiger   ,19.808065,-155.894947
 1994,Unprovoked,USA,Florida,Surfing,M,NA,Foot bitten,N,NA,27.664827,-81.515754
 1994,Unprovoked,USA,Florida,Surfing,M,NA,Legs bitten,N,NA,27.664827,-81.515754
-1995,Unprovoked,USA,Hawaii,NA,M,NA,No details,NA,NA,-14.270972,-170.132217
+1995,Unprovoked,USA,Hawaii,NA,M,NA,No details,NA,NA,19.808065,-155.894947
 1995,Unprovoked,USA,Florida,Boogie boarding,M,13,Lacerations to right foot,N,NA,27.664827,-81.515754
 1995,Unprovoked,USA,Florida,Surfing,M,17,Foot bitten,N,NA,27.664827,-81.515754
 1995,Unprovoked,USA,Florida,Surfing,M,39,Right arm injured,N,NA,27.664827,-81.515754
@@ -2423,7 +2423,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1995,Unprovoked,USA,South Carolina,Surfing,M,NA,Foot bitten,N,NA,33.836081,-81.163725
 1995,Unprovoked,USA,Florida,Swimming,M,45,Right leg bitten,N,NA,27.664827,-81.515754
 1995,Unprovoked,USA,Florida,Swimming,F,10,Leg bitten,N,NA,27.664827,-81.515754
-1995,Unprovoked,USA,Hawaii,Swimming,M,38,Puncture wounds & scratches to torso & left leg ,N,Tiger   ,-14.270972,-170.132217
+1995,Unprovoked,USA,Hawaii,Swimming,M,38,Puncture wounds & scratches to torso & left leg ,N,Tiger   ,19.808065,-155.894947
 1995,Unprovoked,USA,Florida,Surfing,M,15,Left foot bitten,N,Bull   ,27.664827,-81.515754
 1995,Unprovoked,USA,Florida,NA,M,20,Puncture wounds on right foot,N,NA,27.664827,-81.515754
 1995,Unprovoked,USA,South Carolina,NA,M,NA,No details,NA,NA,33.836081,-81.163725
@@ -2436,26 +2436,26 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1996,Unprovoked,USA,Florida,Surfing / Swimming,M,19,Small puncture wounds and lacerations on right leg just below knee,N,NA,27.664827,-81.515754
 1996,Unprovoked,USA,Florida,Standing,M,5,Right foot bitten,N,NA,27.664827,-81.515754
 1996,Unprovoked,USA,Florida,Sitting on surfboard,M,28,Small lacerations on left foot,N,NA,27.664827,-81.515754
-1996,Unprovoked,USA,Hawaii,Body Boarding,M,19,Right calf bitten,N,Tiger   ,-14.270972,-170.132217
+1996,Unprovoked,USA,Hawaii,Body Boarding,M,19,Right calf bitten,N,Tiger   ,19.808065,-155.894947
 1996,Unprovoked,USA,California,Free diving for abalone,M,36,"Left shoulder, forearm, hand & abdomen lacerated",N,White,36.778261,-119.417932
 1996,Unprovoked,USA,Florida,Wade fishing,M,21,"No injury, towed by shark that grabbed stringer of fish tied to his waist",N,Hammerhead ,27.664827,-81.515754
 1996,Unprovoked,USA,Florida,Standing,F,8,Survived,N,NA,27.664827,-81.515754
 1996,Unprovoked,USA,Massachusetts,Swimming,M,46,Lacerations to left leg & right foot ,N,NA,42.407211,-71.382437
 1996,Unprovoked,USA,Florida,Swimming,M,9,Laceration to right arm,N,NA,27.664827,-81.515754
-1996,Unprovoked,USA,Hawaii,NA,NA,NA,No details,NA,NA,-14.270972,-170.132217
+1996,Unprovoked,USA,Hawaii,NA,NA,NA,No details,NA,NA,19.808065,-155.894947
 1996,Unprovoked,USA,Florida,NA,M,18,Right foot bitten,N,NA,27.664827,-81.515754
 1996,Unprovoked,USA,Florida,Standing,F,63,Laceration on left foot,N,NA,27.664827,-81.515754
 1996,Unprovoked,USA,South Carolina,Body surfing,F,24,"Lacerations to left shin, heel & foot",N,NA,33.836081,-81.163725
 1996,Unprovoked,USA,Florida,Surfing,M,22,Right foot & ankle bitten,N,NA,27.664827,-81.515754
 1996,Unprovoked,USA,Florida,Surfing,M,27,Left foot & leg bitten,N,Blacktip,27.664827,-81.515754
-1996,Unprovoked,USA,Hawaii,NA,M,NA,No details,NA,NA,-14.270972,-170.132217
+1996,Unprovoked,USA,Hawaii,NA,M,NA,No details,NA,NA,19.808065,-155.894947
 1996,Provoked,USA,Missouri,Swimming in fish tank,F,32,5 punctures to hand from captive shark PROVOKED INCIDENT,N,Nurse ,37.964253,-91.831833
 1996,Provoked,USA,Florida,Wading,M,33,Shark bit his leg after he grabbed its tail & wouldn't let go PROVOKED INCIDENT,N,Nurse ,27.664827,-81.515754
-1996,Unprovoked,USA,Hawaii,Swimming with mask & snorkel,M,53,Lacerations to left foot & right shin,N,Tiger   ,-14.270972,-170.132217
+1996,Unprovoked,USA,Hawaii,Swimming with mask & snorkel,M,53,Lacerations to left foot & right shin,N,Tiger   ,19.808065,-155.894947
 1996,Unprovoked,USA,North Carolina,Surfing,M,NA,Survived,N,Tiger   ,35.759573,-79.0193
 1997,Unprovoked,USA,Florida,Swimming,M,8,Left leg gashed knee to ankle,N,NA,27.664827,-81.515754
 1997,Unprovoked,USA,Florida,Swimming,M,32,Thigh bitten,N,NA,27.664827,-81.515754
-1997,Unprovoked,USA,Hawaii,Body boarding or surfing,M,19,"Both legs bitten, right leg severed at mid-calf & defense wounds on right hand",N,Tiger   ,-14.270972,-170.132217
+1997,Unprovoked,USA,Hawaii,Body boarding or surfing,M,19,"Both legs bitten, right leg severed at mid-calf & defense wounds on right hand",N,Tiger   ,19.808065,-155.894947
 1997,Unprovoked,USA,Florida,Surfing,M,23,"5"" gash in foot",N,Blacktip,27.664827,-81.515754
 1997,Unprovoked,USA,Florida,Surfing,M,12,Left foot bitten,N,NA,27.664827,-81.515754
 1997,Unprovoked,USA,Florida,Swimming,F,14,Laceration & 3 puncture wounds to anterior right thigh,N,NA,27.664827,-81.515754
@@ -2473,13 +2473,13 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1997,Unprovoked,USA,Florida,Body surfing,M,17,Top of left foot bitten,N,NA,27.664827,-81.515754
 1997,Unprovoked,USA,Florida,Wading / Surfing,M,19,Top of left foot bitten,N,NA,27.664827,-81.515754
 1997,Unprovoked,USA,South Carolina,Standing,M,50,Left calf bitten,N,Blacktip,33.836081,-81.163725
-1997,Unprovoked,USA,Hawaii,Spearfishing / night diving,M,NA,Leg bitten just above ankle,N,NA,-14.270972,-170.132217
+1997,Unprovoked,USA,Hawaii,Spearfishing / night diving,M,NA,Leg bitten just above ankle,N,NA,19.808065,-155.894947
 1997,Unprovoked,USA,Florida,Surfing,M,18,Laceration to left upper arm,N,Blacktip,27.664827,-81.515754
 1997,Unprovoked,USA,Florida,"Body surfing, stood up on sandbar",M,33,4 lacerations above left ankle,N,Blacktip,27.664827,-81.515754
 1997,Unprovoked,USA,Florida,Spearfishing,M,35,Right thigh punctured,N,NA,27.664827,-81.515754
 1997,Unprovoked,USA,Florida,Surfing,M,34,Left elbow bitten,N,Sandtiger,27.664827,-81.515754
 1997,Unprovoked,USA,Florida,Surfing,M,12,Left ankle bitten,N,Sandtiger,27.664827,-81.515754
-1997,Unprovoked,USA,Hawaii,NA,M,NA,No details,NA,NA,-14.270972,-170.132217
+1997,Unprovoked,USA,Hawaii,NA,M,NA,No details,NA,NA,19.808065,-155.894947
 1998,Provoked,USA,Florida,Surfing,M,19,Left foot bitten after he accidentally stepped on the shark         PROVOKED INCIDENT ,N,NA,27.664827,-81.515754
 1998,Unprovoked,USA,Florida,Swimming,M,9,FATAL,Y,Tiger   ,27.664827,-81.515754
 1998,Unprovoked,USA,Florida,Surfing,M,14,Right foot bitten,N,NA,27.664827,-81.515754
@@ -2508,12 +2508,12 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1998,Unprovoked,USA,Virginia,Spearfishing on scuba & transferring fish onto a stringer,M,NA,Shark grasped diver's gloved hand. Glove was soaked with fish blood & slime,N,Sandtiger,37.431573,-78.656894
 1999,Unprovoked,USA,Florida,Surfing,M,35,Right arm & fingers lacerated,N,NA,27.664827,-81.515754
 1999,Unprovoked,USA,Florida,Surfing,M,19,Lacerations to hand & wrist,N,NA,27.664827,-81.515754
-1999,Unprovoked,USA,Hawaii,Swimming,F,51,"Buttock bitten, hands lacerated",N,Tiger   ,-14.270972,-170.132217
+1999,Unprovoked,USA,Hawaii,Swimming,F,51,"Buttock bitten, hands lacerated",N,Tiger   ,19.808065,-155.894947
 1999,Unprovoked,USA,California,Surfing (sitting on his board),M,NA,"No injury, board bitten",N,White,36.778261,-119.417932
 1999,Unprovoked,USA,Florida,Body boarding,M,45,Right foot lacerated,N,NA,27.664827,-81.515754
 1999,Unprovoked,USA,Florida,Body surfing,M,13,"Shark bit 8"" chunk from swim fin",N,NA,27.664827,-81.515754
 1999,Unprovoked,USA,Florida,Surfing,M,NA,Lacerations to right hand & wrist,N,Lemon,27.664827,-81.515754
-1999,Unprovoked,USA,Hawaii,"Surfing, lying on surfboard",M,16,Right arm bitten,N,Tiger   ,-14.270972,-170.132217
+1999,Unprovoked,USA,Hawaii,"Surfing, lying on surfboard",M,16,Right arm bitten,N,Tiger   ,19.808065,-155.894947
 1999,Unprovoked,USA,Florida,Wading to shore after surfing,M,22,3 one-inch lacerations to sole of right foot,N,NA,27.664827,-81.515754
 1999,Unprovoked,USA,Florida,Wading,F,61,Thigh (posterior) bitten,N,NA,27.664827,-81.515754
 1999,Unprovoked,USA,South Carolina,Wading,F,10,Toes lacerated,N,NA,33.836081,-81.163725
@@ -2526,7 +2526,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1999,Unprovoked,USA,South Carolina,Lying prone in 2' of water,M,10,"Ear lacerated, cuts on scalp, back, arm & shoulder ",N,NA,33.836081,-81.163725
 1999,Unprovoked,USA,Florida,Body surfing,M,62,Right ankle & heel  lacerated,N,NA,27.664827,-81.515754
 1999,Unprovoked,USA,Florida,Swimming with dolphins,M,43,Ankle bitten,N,Bull   ,27.664827,-81.515754
-1999,Unprovoked,USA,Hawaii,Surfing,M,43,Right thigh & buttock bitten,N,Tiger   ,-14.270972,-170.132217
+1999,Unprovoked,USA,Hawaii,Surfing,M,43,Right thigh & buttock bitten,N,Tiger   ,19.808065,-155.894947
 1999,Unprovoked,USA,South Carolina,NA,M,NA,Five cuts on his heel,N,NA,33.836081,-81.163725
 1999,Unprovoked,USA,Florida,Wading in school of baitfish,F,30,Lacerations knee to ankle,N,Blacktip,27.664827,-81.515754
 1999,Unprovoked,USA,Florida,Adrift in a life jacket,M,20,9-inch gash in left foot ,N,NA,27.664827,-81.515754
@@ -2534,15 +2534,15 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 1999,Unprovoked,USA,Florida,Swimming,M,41,8-inch bite on calf,N,NA,27.664827,-81.515754
 1999,Unprovoked,USA,Florida,Splashing / wading,M,5,Knee lacerated,N,Blacktip,27.664827,-81.515754
 1999,Unprovoked,USA,Florida,Surfing,M,14,Ankle bitten,N,NA,27.664827,-81.515754
-1999,Unprovoked,USA,Hawaii,"Swimming, towing a kayak",F,29,"FATAL, arm bitten ",Y,NA,-14.270972,-170.132217
-1999,Unprovoked,USA,Hawaii,Body surfing or body boarding,M,18,Bruised right leg,N,NA,-14.270972,-170.132217
-1999,Unprovoked,USA,Hawaii,Swimming near pod of whales,F,29,Tissue removed knee to thigh,N,NA,-14.270972,-170.132217
+1999,Unprovoked,USA,Hawaii,"Swimming, towing a kayak",F,29,"FATAL, arm bitten ",Y,NA,19.808065,-155.894947
+1999,Unprovoked,USA,Hawaii,Body surfing or body boarding,M,18,Bruised right leg,N,NA,19.808065,-155.894947
+1999,Unprovoked,USA,Hawaii,Swimming near pod of whales,F,29,Tissue removed knee to thigh,N,NA,19.808065,-155.894947
 1999,Boat,USA,North Carolina,Cruising,NA,NA,"No injury to occupants, boat sank after colliding with shark",N,Basking ,35.759573,-79.0193
 1999,Unprovoked,USA,Florida,Surfing,M,25,Left hand bitten,N,Blacktip,27.664827,-81.515754
 2000,Unprovoked,USA,Florida,Swimming,M,73,Right calf lacerated,N,NA,27.664827,-81.515754
 2000,Unprovoked,USA,California,Surfing,M,27,Both thighs bitten,N,White,36.778261,-119.417932
 2000,Unprovoked,USA,Florida,Surfing,M,23,Leg lacerated,N,NA,27.664827,-81.515754
-2000,Unprovoked,USA,Hawaii,Swimming / snorkeling,F,56,Right side of back / torso lacerated,N,Tiger   ,-14.270972,-170.132217
+2000,Unprovoked,USA,Hawaii,Swimming / snorkeling,F,56,Right side of back / torso lacerated,N,Tiger   ,19.808065,-155.894947
 2000,Unprovoked,USA,Florida,Swimming,M,69,Right hand lacerated,N,NA,27.664827,-81.515754
 2000,Unprovoked,USA,Florida,Surfing,M,17,Foot lacerated,N,NA,27.664827,-81.515754
 2000,Unprovoked,USA,Florida,Surfing,M,23,Fingers lacerated,N,Blacktip,27.664827,-81.515754
@@ -2559,7 +2559,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2000,Unprovoked,USA,Florida,Jumped into the water,M,69,FATAL,Y,NA,27.664827,-81.515754
 2000,Provoked,USA,Alaska,Conducting research,M,NA,Leg bitten by netted shark PROVOKED INCIDENT,N,NA,63.588753,-154.493062
 2000,Unprovoked,USA,North Carolina,Swimming out to porpoises ,M,NA,"Severe gash to left hand above wrist, almost severing hand",N,NA,35.759573,-79.0193
-2000,Unprovoked,USA,Hawaii,"Windsurfing, but sitting on his board",M,53,Left calf lacerated,N,Tiger   ,-14.270972,-170.132217
+2000,Unprovoked,USA,Hawaii,"Windsurfing, but sitting on his board",M,53,Left calf lacerated,N,Tiger   ,19.808065,-155.894947
 2000,Unprovoked,USA,Florida,Surfing / Wading,M,27,Minor lacerations to the dorsum of the right foot,N,NA,27.664827,-81.515754
 2000,Unprovoked,USA,Florida,Standing,F,44,Severely bitten on lower leg ,N,Blacktip,27.664827,-81.515754
 2000,Unprovoked,USA,Florida,NA,M,5,Minor laceration on left leg,N,NA,27.664827,-81.515754
@@ -2588,7 +2588,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2000,Unprovoked,USA,Louisiana,Spearfishing,M,39,"No injury to diver, speargun damaged",N,Mako,31.244823,-92.145024
 2000,Unprovoked,USA,Florida,NA,M,27,Right calf bitten,N,NA,27.664827,-81.515754
 2000,Boat,USA,Florida,Fishing for tarpon,M,NA,No injury to occupant; shark bit propeller,N,Hammerhead ,27.664827,-81.515754
-2001,Unprovoked,USA,Hawaii,Surfing,NA,NA,"No injury, portion of board's lower surface removed",N,NA,-14.270972,-170.132217
+2001,Unprovoked,USA,Hawaii,Surfing,NA,NA,"No injury, portion of board's lower surface removed",N,NA,19.808065,-155.894947
 2001,Provoked,USA,Florida,"Surfing, fell off surfboard & stepped on the shark.",M,21,PROVOKED INCIDENT Several small lacerations on left foot ,N,NA,27.664827,-81.515754
 2001,Unprovoked,USA,Florida,Surfing,M,14,"1"" to 2"" cuts on right ankle & foot",N,NA,27.664827,-81.515754
 2001,Unprovoked,USA,Florida,Boogie boarding,M,6,"2 lacerations on lower back, punctures on buttock",N,NA,27.664827,-81.515754
@@ -2638,31 +2638,31 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2001,Unprovoked,USA,Florida,Surfing,M,22,Foot lacerated,N,Blacktip,27.664827,-81.515754
 2001,Unprovoked,USA,Florida,Surfing,M,19,Minor cuts on right heel & foot,N,Blacktip,27.664827,-81.515754
 2001,Unprovoked,USA,Florida,Surfing,M,22,Lacerations to top & bottom of left foot,N,NA,27.664827,-81.515754
-2001,Unprovoked,USA,Hawaii,Surfing,M,NA,Minor punctures & lacerations on left hand ,N,Whitetip reef,-14.270972,-170.132217
+2001,Unprovoked,USA,Hawaii,Surfing,M,NA,Minor punctures & lacerations on left hand ,N,Whitetip reef,19.808065,-155.894947
 2001,Unprovoked,USA,Florida,Surfing,NA,16,Foot lacerated,N,Blacktip,27.664827,-81.515754
 2001,Unprovoked,USA,Florida,Standing alongside surfboard,M,26,Minor lacerations to dorsum of left foot,N,NA,27.664827,-81.515754
-2001,Unprovoked,USA,Hawaii,Body-boarding,M,NA,"Minor cuts on left hand, body board bitten",N,NA,-14.270972,-170.132217
+2001,Unprovoked,USA,Hawaii,Body-boarding,M,NA,"Minor cuts on left hand, body board bitten",N,NA,19.808065,-155.894947
 2001,Unprovoked,USA,Florida,Surfing,M,NA,Fingers & hand lacerated,N,Blacktip,27.664827,-81.515754
 2001,Unprovoked,USA,California,Surfing,M,NA,"Foot bruised, board dinged",N,Blacktip,36.778261,-119.417932
 2002,Unprovoked,USA,California,Body boarding,M,48,Both legs severely lacerated,N,White,36.778261,-119.417932
-2002,Unprovoked,USA,Hawaii,Swimming,F,34,Right shoulder forarm & wrist bitten,N,Grey reef ,-14.270972,-170.132217
+2002,Unprovoked,USA,Hawaii,Swimming,F,34,Right shoulder forarm & wrist bitten,N,Grey reef ,19.808065,-155.894947
 2002,Unprovoked,USA,Florida,Surfing,M,21,1.5-inch laceration,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Boogie boarding,M,16,Puncture wounds on right foot,N,NA,27.664827,-81.515754
-2002,Unprovoked,USA,Hawaii,Swimming,F,60,Left foot bitten ,N,NA,-14.270972,-170.132217
+2002,Unprovoked,USA,Hawaii,Swimming,F,60,Left foot bitten ,N,NA,19.808065,-155.894947
 2002,Unprovoked,USA,Florida,Surfing,M,21,Left foot bitten,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Surfing,M,14,Abrasions on right hand & deep laceration on middle finger,N,Blacktip,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Surfing,M,35,Heel & back of right knee lacerated,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Surfing,M,18,Left hand lacerated and abraded,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Surfing,M,47,Right hand severely lacerated,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Surfing,M,32,Left hand bitten,N,NA,27.664827,-81.515754
-2002,Unprovoked,USA,Hawaii,Fishing from Surfboard,M,55,"No injury, surfboard bitten ",N,Blacktip,-14.270972,-170.132217
+2002,Unprovoked,USA,Hawaii,Fishing from Surfboard,M,55,"No injury, surfboard bitten ",N,Blacktip,19.808065,-155.894947
 2002,Provoked,USA,Florida,Fishing,M,NA,Left thumb lacerated PROVOKED INCIDENT,N,Blacktip,27.664827,-81.515754
 2002,Unprovoked,USA,Oregon,Boogie boarding or Surfing,M,24, Ankle lacerated,N,NA,43.804133,-120.554201
 2002,Unprovoked,USA,California,Surfing,M,35,No injury,N,NA,36.778261,-119.417932
-2002,Unprovoked,USA,Hawaii,Body boarding,NA,NA,"No injury, shark fin seen just before board ripped away & dragged out to sea",N,NA,-14.270972,-170.132217
+2002,Unprovoked,USA,Hawaii,Body boarding,NA,NA,"No injury, shark fin seen just before board ripped away & dragged out to sea",N,NA,19.808065,-155.894947
 2002,Unprovoked,USA,Florida,Boogie boarding,M,20,Bitten above & below right knee,N,NA,27.664827,-81.515754
 2002,Provoked,USA,Florida,"Wading, when he stepped on the shark",M,36,2 small puncture wounds on left foot PROVOKED INCIDENT,N,Hammerhead ,27.664827,-81.515754
-2002,Unprovoked,USA,Hawaii,Surfing,M,16,Left foot lacerated ,N,Tiger   ,-14.270972,-170.132217
+2002,Unprovoked,USA,Hawaii,Surfing,M,16,Left foot lacerated ,N,Tiger   ,19.808065,-155.894947
 2002,Unprovoked,USA,Alabama,Swimming,F,29,Both arms & leg bitten,N,NA,32.318231,-86.902298
 2002,Unprovoked,USA,Florida,Surfing,M,27,Big toe bitten,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Surfing,M,15,Lacerations on heel & dorsum of right foot,N,Nurse ,27.664827,-81.515754
@@ -2674,7 +2674,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2002,Provoked,USA,Maryland,Shark Fishing,M,41,Drowned when caught in line and pulled overboard by hooked shark PROVOKED INCIDENT,Y,Mako,39.045755,-76.641271
 2002,Unprovoked,USA,North Carolina,Standing,F,9,"Calf, foot & hand bitten",N,NA,35.759573,-79.0193
 2002,Unprovoked,USA,Florida,Swimming,F,11,Small lacerations on right lower leg,N,NA,27.664827,-81.515754
-2002,Unprovoked,USA,Hawaii,Sitting on surfboard,NA,NA,"No injury, shark bit side of surfboard",N,Tiger   ,-14.270972,-170.132217
+2002,Unprovoked,USA,Hawaii,Sitting on surfboard,NA,NA,"No injury, shark bit side of surfboard",N,Tiger   ,19.808065,-155.894947
 2002,Unprovoked,USA,Florida,Surfing,M,28,Right hand lacerated,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Surfing,M,50,6-inch gash on right foot,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Swimming,M,10,Right calf lacerated,N,NA,27.664827,-81.515754
@@ -2687,24 +2687,24 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2002,Unprovoked,USA,Florida,Surfing,M,28,Left foot bitten,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Wading,M,41,Two half-inch lacerations on right heel and one near small toe,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Swimming / Wading,M,29,Upper left arm bitten,N,NA,27.664827,-81.515754
-2002,Unprovoked,USA,Hawaii,Body-boarding,M,17,Left leg severed below knee,N,Tiger   ,-14.270972,-170.132217
+2002,Unprovoked,USA,Hawaii,Body-boarding,M,17,Left leg severed below knee,N,Tiger   ,19.808065,-155.894947
 2002,Unprovoked,USA,Florida,Wading,F,11,Foot bitten,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Swimming /  boogie boarding,M,20,Punctures on left foot and foot ,N,NA,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Snorkeling,M,39,Arm bitten,N,Nurse ,27.664827,-81.515754
 2002,Unprovoked,USA,Florida,Surfing,M,31,Several  puncture wounds on lower right leg,N,Blacktip,27.664827,-81.515754
-2002,Unprovoked,USA,Hawaii,Snorkeling,M,35,Lacerations to buttocks & thigh,N,Tiger   ,-14.270972,-170.132217
+2002,Unprovoked,USA,Hawaii,Snorkeling,M,35,Lacerations to buttocks & thigh,N,Tiger   ,19.808065,-155.894947
 2003,Unprovoked,USA,Florida,Swimming,M,13,Foot bitten,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Surfing,F,35,Severe abrasion to left lateral calf,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Surfing,M,24,Lacerations to hand,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Surfing,M,18,Left foot (sole) bitten,N,NA,27.664827,-81.515754
-2003,Unprovoked,USA,Hawaii,Surfing,F,13,Left arm severed below shoulder,N,Tiger   ,-14.270972,-170.132217
+2003,Unprovoked,USA,Hawaii,Surfing,F,13,Left arm severed below shoulder,N,Tiger   ,19.808065,-155.894947
 2003,Unprovoked,USA,Florida,Surfing,M,46,Laceration on right ankle & heel,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Surfing,M,19,Foot bitten,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Surfing,F,NA,Minor puncture wounds in hand,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Surfing,M,18,5 to 6 lacerations on right foot & ankle,N,NA,27.664827,-81.515754
 2003,Provoked,USA,Florida,Surfing,M,30,Left ankle bitten when he stepped on the shark PROVOKED INCIDENT,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Sitting on surfboard,M,50,Left foot bitten,N,NA,27.664827,-81.515754
-2003,Unprovoked,USA,Hawaii,Wading near a fishing net,F,41,"Left thigh abraded, right knee and right index finger injured",N,NA,-14.270972,-170.132217
+2003,Unprovoked,USA,Hawaii,Wading near a fishing net,F,41,"Left thigh abraded, right knee and right index finger injured",N,NA,19.808065,-155.894947
 2003,Unprovoked,USA,Florida,Surfing,M,16,Arm lacerated,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Surfing,M,21,Left foot bitten,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Surfing,M,19,Left heel lacerated,N,NA,27.664827,-81.515754
@@ -2723,12 +2723,12 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2003,Unprovoked,USA,Florida,Surfing,M,17,Right foot & toes lacerated,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Surfing,M,15,Ankle lacerated,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Standing,F,12,2 lacerations to the thigh,N,NA,27.664827,-81.515754
-2003,Unprovoked,USA,Hawaii,Swimming with pod of dolphins,M,60,Right foot bitten,N,NA,-14.270972,-170.132217
+2003,Unprovoked,USA,Hawaii,Swimming with pod of dolphins,M,60,Right foot bitten,N,NA,19.808065,-155.894947
 2003,Unprovoked,USA,North Carolina,Surfing ,M,33,Hand bitten ,N,Sandtiger,35.759573,-79.0193
 2003,Unprovoked,USA,Florida,Surfing,NA,15,6 puncture wounds to left ankle,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Surfing,M,18,Left foot lacerated,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Wading,M,22,Left foot bitten,N,NA,27.664827,-81.515754
-2003,Unprovoked,USA,Hawaii,Swimming,M,20,Right calf & heel bitten,N,Grey reef ,-14.270972,-170.132217
+2003,Unprovoked,USA,Hawaii,Swimming,M,20,Right calf & heel bitten,N,Grey reef ,19.808065,-155.894947
 2003,Provoked,USA,Florida,Surfing,M,34,Multiple bites to foot after jumping off surfboard onto shark PROVOKED INCIDENT,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Walking,F,9,Laceration to right lower leg,N,NA,27.664827,-81.515754
 2003,Unprovoked,USA,Florida,Surfing,M,36,Right leg bitten,N,NA,27.664827,-81.515754
@@ -2745,7 +2745,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2003,Unprovoked,USA,Florida,Swimming,M,54,Left hand bitten,N,NA,27.664827,-81.515754
 2004,Unprovoked,USA,California,Surfing,NA,38,"Lacerations to hand, knee & thigh ",N,White,36.778261,-119.417932
 2004,Unprovoked,USA,California,Surfing,M,NA,Lower leg bitten,N,White,36.778261,-119.417932
-2004,Unprovoked,USA,Hawaii,Spearfishing,M,34,Left shoulder bitten,N,Tiger   ,-14.270972,-170.132217
+2004,Unprovoked,USA,Hawaii,Spearfishing,M,34,Left shoulder bitten,N,Tiger   ,19.808065,-155.894947
 2004,Unprovoked,USA,California,Surfing,M,16,"No injury, knocked off surfboard",N,NA,36.778261,-119.417932
 2004,Unprovoked,USA,California,Surfing,M,40,"No injury, shark struck board & spun it around",N,NA,36.778261,-119.417932
 2004,Unprovoked,USA,Oregon,Surfing,M,26,Leg bitten,N,White,43.804133,-120.554201
@@ -2768,15 +2768,15 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2004,Unprovoked,USA,Florida,Boogie-boarding / swimming,M,9,Calf & foot lacerated,N,NA,27.664827,-81.515754
 2004,Unprovoked,USA,Florida,NA,F,9,Foot bitten,N,NA,27.664827,-81.515754
 2004,Unprovoked,USA,Texas,Tandem surfing,M,28,"No injury, board bitten",N,Mako,31.968599,-99.901813
-2004,Unprovoked,USA,Hawaii,Surfing,M,57,FATAL Severe wound to right thigh & calf,Y,Tiger   ,-14.270972,-170.132217
+2004,Unprovoked,USA,Hawaii,Surfing,M,57,FATAL Severe wound to right thigh & calf,Y,Tiger   ,19.808065,-155.894947
 2004,Unprovoked,USA,Florida,NA,M,26,Right foot bitten,N,NA,27.664827,-81.515754
 2004,Unprovoked,USA,Florida,Surfing,M,20,15 puncture wounds on foot,N,Bull   ,27.664827,-81.515754
 2004,Unprovoked,USA,Florida,Surfing,M,NA,Heel bitten,N,Bull   ,27.664827,-81.515754
 2004,Unprovoked,USA,Florida,Swimming,M,61,Minor lacerations & abrasions on forearm,N,NA,27.664827,-81.515754
-2004,Unprovoked,USA,Hawaii,Snorkeling,F,NA,Lacerations to left foot,N,NA,-14.270972,-170.132217
-2004,Unprovoked,USA,Hawaii,Surfing,M,51,"No injury, board bitten",N,Tiger   ,-14.270972,-170.132217
+2004,Unprovoked,USA,Hawaii,Snorkeling,F,NA,Lacerations to left foot,N,NA,19.808065,-155.894947
+2004,Unprovoked,USA,Hawaii,Surfing,M,51,"No injury, board bitten",N,Tiger   ,19.808065,-155.894947
 2005,Unprovoked,USA,Oregon,Surfing,M,30,Lacerations to ankle & calf,N,White,43.804133,-120.554201
-2005,Unprovoked,USA,Hawaii,Swimming,M,29,Left hand bitten,N,Tiger   ,-14.270972,-170.132217
+2005,Unprovoked,USA,Hawaii,Swimming,M,29,Left hand bitten,N,Tiger   ,19.808065,-155.894947
 2005,Unprovoked,USA,Florida,Surfing,M,NA,Left foot bitten,N,NA,27.664827,-81.515754
 2005,Unprovoked,USA,Florida,Surfing,M,23,Right thumb & palm lacerated,N,NA,27.664827,-81.515754
 2005,Unprovoked,USA,Florida,Surfing,M,30,Left foot bitten,N,NA,27.664827,-81.515754
@@ -2788,7 +2788,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2005,Unprovoked,USA,California,Surfing,M,36,No injury,N,White,36.778261,-119.417932
 2005,Unprovoked,USA,California,Surfing,F,20,Leg bitten,N,White,36.778261,-119.417932
 2005,Provoked,USA,Florida,Wading,M,15,Minor cuts to dorsum & sole of left foot when he stepped on shark PROVOKED INCIDENT,N,NA,27.664827,-81.515754
-2005,Unprovoked,USA,Hawaii,Surfing,M,22,"No injury, surfboard bitten",N,Tiger   ,-14.270972,-170.132217
+2005,Unprovoked,USA,Hawaii,Surfing,M,22,"No injury, surfboard bitten",N,Tiger   ,19.808065,-155.894947
 2005,Unprovoked,USA,Florida,Treading water/ Surfing,M,48,Five 1-inch lacerations to left foot,N,NA,27.664827,-81.515754
 2005,Unprovoked,USA,South Carolina,Body surfing,F,68,"Injuries to fingers, calf  & heel",N,NA,33.836081,-81.163725
 2005,Unprovoked,USA,South Carolina,Surfing,M,18,FATAL,Y,NA,33.836081,-81.163725
@@ -2811,18 +2811,18 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2005,Unprovoked,USA,Texas,Wading,M,6,Two 2-inch lacerations on right foot,N,NA,31.968599,-99.901813
 2005,Unprovoked,USA,Florida,Swimming,M,33,Left foot bitten,N,NA,27.664827,-81.515754
 2005,Unprovoked,USA,Florida,Crouching in 2' of water,F,NA,Right arm & torso bitten,N,NA,27.664827,-81.515754
-2005,Unprovoked,USA,Hawaii,Kayaking,NA,NA,"No injury, shark bit kayak",N,Tiger   ,-14.270972,-170.132217
+2005,Unprovoked,USA,Hawaii,Kayaking,NA,NA,"No injury, shark bit kayak",N,Tiger   ,19.808065,-155.894947
 2005,Sea Disaster,USA,South Carolina,Sea Disaster,M,NA,No injury,N,NA,33.836081,-81.163725
-2005,Unprovoked,USA,Hawaii,Surfing,M,47,"No injury, board damaged",N,Tiger   ,-14.270972,-170.132217
+2005,Unprovoked,USA,Hawaii,Surfing,M,47,"No injury, board damaged",N,Tiger   ,19.808065,-155.894947
 2005,Unprovoked,USA,Florida,Wading,F,70,Right lower leg bitten,N,Blacktip,27.664827,-81.515754
 2005,Unprovoked,USA,Texas,Surfing,M,37,Left foot bitten ,N,NA,31.968599,-99.901813
 2005,Unprovoked,USA,Florida,NA,F,NA,Left calf injured,N,Hammerhead ,27.664827,-81.515754
 2005,Provoked,USA,New Mexico,Diving in aquarium display tank,M,45,2 punctures on forearm as captive shark collided with diver PROVOKED INCIDENT,N,Sandtiger,34.97273,-105.032363
 2005,Provoked,USA,Florida,Spearfishing,M,NA,Speared shark bit his chest PROVOKED INCIDENT,N,Nurse ,27.664827,-81.515754
-2005,Unprovoked,USA,Hawaii,Surfing,M,NA,"No injury, knocked off board, shark bit board",N,Tiger   ,-14.270972,-170.132217
+2005,Unprovoked,USA,Hawaii,Surfing,M,NA,"No injury, knocked off board, shark bit board",N,Tiger   ,19.808065,-155.894947
 2005,Unprovoked,USA,Florida,Spearfishing,M,NA,Hand bitten,N,Caribbean reef,27.664827,-81.515754
 2006,Unprovoked,USA,California,Surfing,M,43,"Minor injuries, surfboard bitten",N,White,36.778261,-119.417932
-2006,Unprovoked,USA,Hawaii,Swimming,M,29,Laceration to left thigh & left hand,N,NA,-14.270972,-170.132217
+2006,Unprovoked,USA,Hawaii,Swimming,M,29,Laceration to left thigh & left hand,N,NA,19.808065,-155.894947
 2006,Unprovoked,USA,Oregon,Surfing,M,22,"No injury, surfboard bitten",N,White,43.804133,-120.554201
 2006,Unprovoked,USA,Florida,Fishing,M,15,Lower right leg and foot bitten,N,NA,27.664827,-81.515754
 2006,Unprovoked,USA,Florida,Surfing,M,20,Left ankle bitten,N,NA,27.664827,-81.515754
@@ -2856,10 +2856,10 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2006,Unprovoked,USA,California,Scuba diving,M,43,"No injury, shark bit scuba tank boot",N,NA,36.778261,-119.417932
 2006,Unprovoked,USA,Florida,Surfing,M,24,Four 1-inch puncture wounds on left foot ,N,NA,27.664827,-81.515754
 2006,Unprovoked,USA,South Carolina,Playing,F,7,Lacerations & puncture wounds to left foot & buttocks,N,NA,33.836081,-81.163725
-2006,Unprovoked,USA,Hawaii,Spearfishing,M,26,"4"" laceration to left forearm",N,Tiger   ,-14.270972,-170.132217
-2006,Provoked,USA,Hawaii,Tagging sharks,NA,NA,"No injury to occupants, boat damaged by hooked shark PROVOKED INCIDENT",N,Tiger   ,-14.270972,-170.132217
-2006,Unprovoked,USA,Hawaii,Surfing,M,31,"No injury, shark bumped surfboard",N,NA,-14.270972,-170.132217
-2006,Provoked,USA,Hawaii,Spearfishing,M,15,Knee bitten after diver poked shark PROVOKED INCIDENT,N,Grey reef ,-14.270972,-170.132217
+2006,Unprovoked,USA,Hawaii,Spearfishing,M,26,"4"" laceration to left forearm",N,Tiger   ,19.808065,-155.894947
+2006,Provoked,USA,Hawaii,Tagging sharks,NA,NA,"No injury to occupants, boat damaged by hooked shark PROVOKED INCIDENT",N,Tiger   ,19.808065,-155.894947
+2006,Unprovoked,USA,Hawaii,Surfing,M,31,"No injury, shark bumped surfboard",N,NA,19.808065,-155.894947
+2006,Provoked,USA,Hawaii,Spearfishing,M,15,Knee bitten after diver poked shark PROVOKED INCIDENT,N,Grey reef ,19.808065,-155.894947
 2006,Unprovoked,USA,Guam,Scuba diving,F,30,Laceration to leg,N,Tiger   ,13.444304,144.793731
 2006,Unprovoked,USA,Florida,NA,M,NA,Small lacerations to arm,N,NA,27.664827,-81.515754
 2006,Unprovoked,USA,Florida,Swimming,F,20,2 lacerations on lower right leg,N,NA,27.664827,-81.515754
@@ -2867,16 +2867,16 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2006,Unprovoked,USA,Florida,Standing,F,13,3 tiny punctures & small lacerations on right ankle,N,NA,27.664827,-81.515754
 2006,Provoked,USA,Florida,Fishing,M,35,3 to 4 cm laceration on foot from hooked shark brought on board PROVOKED INCIDENT,N,Bull   ,27.664827,-81.515754
 2006,Unprovoked,USA,Florida,Wading,M,11,Minor injury to right hand & thigh,N,NA,27.664827,-81.515754
-2006,Unprovoked,USA,Hawaii,Surfing,F,28,5 puncture wounds in left calf,N,Tiger   ,-14.270972,-170.132217
-2006,Unprovoked,USA,Hawaii,Standing,F,15,Deep laceration to right calf,N,NA,-14.270972,-170.132217
-2006,Boat,USA,Hawaii,Kayaking,M,57,No injury to occupant; shark bumped the kayak repeatedly for 15 minutes,N,NA,-14.270972,-170.132217
+2006,Unprovoked,USA,Hawaii,Surfing,F,28,5 puncture wounds in left calf,N,Tiger   ,19.808065,-155.894947
+2006,Unprovoked,USA,Hawaii,Standing,F,15,Deep laceration to right calf,N,NA,19.808065,-155.894947
+2006,Boat,USA,Hawaii,Kayaking,M,57,No injury to occupant; shark bumped the kayak repeatedly for 15 minutes,N,NA,19.808065,-155.894947
 2006,Unprovoked,USA,California,Night Surfing,M,NA,"No injury, but 2 small nicks on wetsuit",N,NA,36.778261,-119.417932
 2006,Unprovoked,USA,Florida,Surfing,M,21,3 puncture wounds in right wrist & hand,N,NA,27.664827,-81.515754
 2006,Unprovoked,USA,Florida,Wade-fishing,M,NA,"No injury, shark rammed his back",N,NA,27.664827,-81.515754
-2007,Unprovoked,USA,Hawaii,Surfing,M,52,"No injury, shark bit surfboard ",N,Tiger   ,-14.270972,-170.132217
+2007,Unprovoked,USA,Hawaii,Surfing,M,52,"No injury, shark bit surfboard ",N,Tiger   ,19.808065,-155.894947
 2007,Unprovoked,USA,Florida,Surfing,M,21,Cut to right knee,N,NA,27.664827,-81.515754
 2007,Unprovoked,USA,Florida,Surfing,M,42,Lacerations to right leg,N,NA,27.664827,-81.515754
-2007,Unprovoked,USA,Hawaii,Floating,M,32,Lacerations to left lower leg,N,Tiger   ,-14.270972,-170.132217
+2007,Unprovoked,USA,Hawaii,Floating,M,32,Lacerations to left lower leg,N,Tiger   ,19.808065,-155.894947
 2007,Unprovoked,USA,California,Surfing,M,22,4 scratches on left hand,N,NA,36.778261,-119.417932
 2007,Unprovoked,USA,Florida,Surfing,M,16,Severe lacerations to right hand,N,Blacktip,27.664827,-81.515754
 2007,Unprovoked,USA,California,Surfing,M,NA,Puncture wound to foot,N,NA,36.778261,-119.417932
@@ -2891,7 +2891,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2007,Unprovoked,USA,South Carolina,Standing,M,15,Lacerations to left calf and both feet ,N,NA,33.836081,-81.163725
 2007,Unprovoked,USA,Florida,Jumping,F,12,Tiny punctures to arm,N,NA,27.664827,-81.515754
 2007,Unprovoked,USA,Florida,Swimming,M,58,"3"" laceration to left forearm",N,Blacktip,27.664827,-81.515754
-2007,Unprovoked,USA,Hawaii,Body boarding,M,15,Laceration to right heel,N,Tiger   ,-14.270972,-170.132217
+2007,Unprovoked,USA,Hawaii,Body boarding,M,15,Laceration to right heel,N,Tiger   ,19.808065,-155.894947
 2007,Unprovoked,USA,California,Surfing,M,24,Lacerations to thigh & torso,N,White,36.778261,-119.417932
 2007,Unprovoked,USA,Florida,Surfing,M,54,Left hand  bitten,N,NA,27.664827,-81.515754
 2007,Unprovoked,USA,Florida,Surfing,M,27, 6 lacerations to left hand,N,NA,27.664827,-81.515754
@@ -2910,19 +2910,19 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2007,Unprovoked,USA,California,Surfing,M,20,"No injury, shark bit surfboard",N,NA,36.778261,-119.417932
 2007,Unprovoked,USA,California,Surf paddling,M,NA,"No injury, surfboard bumped by shark for 20 minutes",N,White,36.778261,-119.417932
 2007,Boat,USA,California,Kayak Fishing,M,NA,"No injury, kayak bitten",N,White,36.778261,-119.417932
-2007,Unprovoked,USA,Hawaii,Snorkeling,M,36,Left calf severely bitten,N,NA,-14.270972,-170.132217
+2007,Unprovoked,USA,Hawaii,Snorkeling,M,36,Left calf severely bitten,N,NA,19.808065,-155.894947
 2007,Unprovoked,USA,North Carolina,Swimming,M,14,Right calf bitten,N,NA,35.759573,-79.0193
 2007,Unprovoked,USA,North Carolina,Wading,F,30,Lacerations to right thigh & left foot,N,NA,35.759573,-79.0193
 2007,Unprovoked,USA,Florida,Surfing,M,18,Right foot bitten,N,NA,27.664827,-81.515754
 2007,Provoked,USA,Florida,Removing hook from shark,M,NA,Lacerations to right  hand by hooked shark PROVOKED INCIDENT,N,Lemon,27.664827,-81.515754
 2007,Unprovoked,USA,California,Swimming,F,NA,Hand bitten,N,NA,36.778261,-119.417932
 2007,Unprovoked,USA,Florida,Surfing,M,20,6 to 8 puncture wounds to right hand,N,NA,27.664827,-81.515754
-2007,Unprovoked,USA,Hawaii,Surfing,M,NA,"No injury, board damaged",N,Tiger   ,-14.270972,-170.132217
+2007,Unprovoked,USA,Hawaii,Surfing,M,NA,"No injury, board damaged",N,Tiger   ,19.808065,-155.894947
 2007,Unprovoked,USA,Florida,Swimming,F,NA,Right foot bitten,N,NA,27.664827,-81.515754
 2007,Unprovoked,USA,South Carolina,Wading,F,NA,Lacerations to lower leg,N,NA,33.836081,-81.163725
 2007,Provoked,USA,Virginia,Reviving a sedated shark,F,40,Left shin bitten by captive shark PROVOKED INCIDENT,N,Blacktip Reef  ,37.431573,-78.656894
 2007,Unprovoked,USA,Florida,Surfing,F,21,Knee bitten,N,NA,27.664827,-81.515754
-2007,Unprovoked,USA,Hawaii,Snorkeling,F,63,Right foot bitten,N,Tiger   ,-14.270972,-170.132217
+2007,Unprovoked,USA,Hawaii,Snorkeling,F,63,Right foot bitten,N,Tiger   ,19.808065,-155.894947
 2007,Unprovoked,USA,Florida,Swimming,M,68,Circular bite on left thigh,N,NA,27.664827,-81.515754
 2007,Unprovoked,USA,Florida,Body boarding,M,12,Left foot bitten,N,Blacktip,27.664827,-81.515754
 2007,Unprovoked,USA,Florida,Surfing,M,24,Lacerations to left index finger & thumb ,N,NA,27.664827,-81.515754
@@ -2934,13 +2934,13 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2007,Provoked,USA,Florida,Shark fishing,M,NA,Right hand bitten by hooked shark PROVOKED INCIDENT,N,NA,27.664827,-81.515754
 2007,Unprovoked,USA,Florida,Surfing,M,29,Lacerations to right forearm & hand,N,NA,27.664827,-81.515754
 2007,Boat,USA,Florida,Shrimping,NA,NA,"A large shark rammed boat, breaking prop shaft. No injury to occupants but boat sank several hours later",N,NA,27.664827,-81.515754
-2007,Unprovoked,USA,Hawaii,Surfing,M,24,"No injury, shark removed piece of surfboard",N,Tiger   ,-14.270972,-170.132217
+2007,Unprovoked,USA,Hawaii,Surfing,M,24,"No injury, shark removed piece of surfboard",N,Tiger   ,19.808065,-155.894947
 2008,Unprovoked,USA,California,Kayaking,M,NA,"No injury, shark struck paddle",N,White,36.778261,-119.417932
 2008,Unprovoked,USA,Florida,Fishing,M,11,Lacerations,N,NA,27.664827,-81.515754
 2008,Unprovoked,USA,Florida,Surfing,M,44,Small puncture wounds to the heel of left foot,N,NA,27.664827,-81.515754
 2008,Unprovoked,USA,Florida,Surfing,M,40,Right foot bitten,N,NA,27.664827,-81.515754
 2008,Unprovoked,USA,Florida,Swimming,M,32,Lacerations to foot,N,NA,27.664827,-81.515754
-2008,Unprovoked,USA,Hawaii,Surfing,M,40,Bitten on right thigh & calf,N,Tiger   ,-14.270972,-170.132217
+2008,Unprovoked,USA,Hawaii,Surfing,M,40,Bitten on right thigh & calf,N,Tiger   ,19.808065,-155.894947
 2008,Unprovoked,USA,California,Surfing,M,NA,"No injury to surfer, board bitten",N,White,36.778261,-119.417932
 2008,Unprovoked,USA,Florida,Surfing,M,43,Minor injury to foot,N,NA,27.664827,-81.515754
 2008,Unprovoked,USA,Florida,Surfing,M,15,Minor injury to foot,N,NA,27.664827,-81.515754
@@ -2952,10 +2952,10 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2008,Unprovoked,USA,Florida,Swimming,M,47,3 lacerations to forearm,N,NA,27.664827,-81.515754
 2008,Unprovoked,USA,US Virgin Islands,Treading water,F,38,Severe lacerations to left foot,N,Bull   ,18.335765,-64.896335
 2008,Unprovoked,USA,Florida,Wading,F,13,Puncture wounds & 3-inch laceration to right calf,N,NA,27.664827,-81.515754
-2008,Unprovoked,USA,Hawaii,Diving,M,NA,"No injury, shark grabbed his bag of fish",N,Tiger   ,-14.270972,-170.132217
-2008,Unprovoked,USA,Hawaii,Swimming,M,NA,Minor injury,N,Grey reef ,-14.270972,-170.132217
+2008,Unprovoked,USA,Hawaii,Diving,M,NA,"No injury, shark grabbed his bag of fish",N,Tiger   ,19.808065,-155.894947
+2008,Unprovoked,USA,Hawaii,Swimming,M,NA,Minor injury,N,Grey reef ,19.808065,-155.894947
 2008,Unprovoked,USA,Florida,Surfing,M,17,Right foot bitten,N,NA,27.664827,-81.515754
-2008,Unprovoked,USA,Hawaii,Snorkeling,F,44,Forearm bitten ,N,NA,-14.270972,-170.132217
+2008,Unprovoked,USA,Hawaii,Snorkeling,F,44,Forearm bitten ,N,NA,19.808065,-155.894947
 2008,Unprovoked,USA,North Carolina,Wading,M,9,Minor lacerations to  toe,N,NA,35.759573,-79.0193
 2008,Unprovoked,USA,North Carolina,Wading,F,8,Lacerations to dorsum of right foot ,N,NA,35.759573,-79.0193
 2008,Provoked,USA,Florida,Surfing,M,15,Foot bitten after he stepped on the shark PROVOKED INCIDENT,N,NA,27.664827,-81.515754
@@ -2997,13 +2997,13 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2009,Unprovoked,USA,Florida,Surfing,M,18,Foot bitten,N,NA,27.664827,-81.515754
 2009,Unprovoked,USA,California,Surfing,M,21,"No injury, board broken in half",N,NA,36.778261,-119.417932
 2009,Unprovoked,USA,California,Surfing,M,NA,"3 puncture wounds to big toe of left foot, and laceration on arch of foot",N,NA,36.778261,-119.417932
-2009,Unprovoked,USA,Hawaii,Surfing,M,54,Bitten on upper right thigh & right ankle,N,NA,-14.270972,-170.132217
+2009,Unprovoked,USA,Hawaii,Surfing,M,54,Bitten on upper right thigh & right ankle,N,NA,19.808065,-155.894947
 2009,Unprovoked,USA,California,Surfing,M,NA,Laceration to shin of left leg,N,NA,36.778261,-119.417932
 2009,Unprovoked,USA,Florida,Swimming,M,NA,Laceration to right foot,N,Bull   ,27.664827,-81.515754
 2009,Unprovoked,USA,California,Surfing,M,NA,No injury,N,NA,36.778261,-119.417932
 2009,Unprovoked,USA,California,Swimming,F,22,Puncture wounds to left foot & calf,N,White,36.778261,-119.417932
 2009,Unprovoked,USA,Florida,Swimming,M,26,Puncture marks on left foot,N,NA,27.664827,-81.515754
-2009,Unprovoked,USA,Hawaii,Surfing,M,NA,"No injury, surfboard bitten",N,Tiger   ,-14.270972,-170.132217
+2009,Unprovoked,USA,Hawaii,Surfing,M,NA,"No injury, surfboard bitten",N,Tiger   ,19.808065,-155.894947
 2009,Unprovoked,USA,Louisiana,Wade Fishing,M,56,Right ankle & foot bitten,N,Bull   ,31.244823,-92.145024
 2009,Unprovoked,USA,Texas,Wading,F,14,Lacerations to anterior left lower leg,N,NA,31.968599,-99.901813
 2009,Unprovoked,USA,North Carolina,Swimming,F,26,Laceration to left foot,N,NA,35.759573,-79.0193
@@ -3023,12 +3023,12 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2009,Unprovoked,USA,California,Spearfishing,M,NA,Shark struck him but the diver was not injured,N,White,36.778261,-119.417932
 2009,Unprovoked,USA,Florida,Wading,M,15,Lacerations to right foot and ankle,N,NA,27.664827,-81.515754
 2009,Unprovoked,USA,Florida,Surfing,F,17,Minor bite to ankle,N,NA,27.664827,-81.515754
-2009,Unprovoked,USA,Hawaii,Swimming,M,61,"Minor injury, bite chest and left calf",N,Cookie cutter,-14.270972,-170.132217
+2009,Unprovoked,USA,Hawaii,Swimming,M,61,"Minor injury, bite chest and left calf",N,Cookie cutter,19.808065,-155.894947
 2009,Sea Disaster,USA,Puerto Rico,Air Disaster,M,NA,It is probable that all 5 passengers died on impact. The body of one was scavenged by a shark,Y,NA,18.220833,-66.590149
 2009,Unprovoked,USA,South Carolina,Swimming,M,NA,Minor injury,N,NA,33.836081,-81.163725
 2009,Unprovoked,USA,Florida,Shark tagging,F,21,Severe abrasion to forearm from captive shark PROVOKED INICIDENT,N,Blacktip,27.664827,-81.515754
-2010,Unprovoked,USA,Hawaii,Body boarding,M,16,"Lacerations to his lower left leg, calf, foot & ankle",N,NA,-14.270972,-170.132217
-2010,Unprovoked,USA,Hawaii,Surfing,M,46,Lacerations to right foot,N,NA,-14.270972,-170.132217
+2010,Unprovoked,USA,Hawaii,Body boarding,M,16,"Lacerations to his lower left leg, calf, foot & ankle",N,NA,19.808065,-155.894947
+2010,Unprovoked,USA,Hawaii,Surfing,M,46,Lacerations to right foot,N,NA,19.808065,-155.894947
 2010,Unprovoked,USA,Oregon,Surfing,M,NA,No injury to surfer,N,NA,43.804133,-120.554201
 2010,Unprovoked,USA,Maine,Scuba diving,M,30,"No injury to diver, shark bit his video camera",N,Porbeagle  ,45.253783,-69.445469
 2010,Unprovoked,USA,California,Body boarding,M,19,FATAL,Y,White,36.778261,-119.417932
@@ -3061,13 +3061,13 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2010,Provoked,USA,Florida,Fishing,M,49,Laceration to left calf by hooked shark PROVOKED INCIDENT,N,Lemon,27.664827,-81.515754
 2010,Unprovoked,USA,Florida,Wading,F,10,Minor puncture wounds to right ankle,N,NA,27.664827,-81.515754
 2010,Provoked,USA,Florida,Measuring sharks,M,29,Arm bitten PROVOKED INCIDENT ,N,Lemon,27.664827,-81.515754
-2010,Unprovoked,USA,Hawaii,Surfing,M,68,"No injury, surfboard bitten",N,NA,-14.270972,-170.132217
+2010,Unprovoked,USA,Hawaii,Surfing,M,68,"No injury, surfboard bitten",N,NA,19.808065,-155.894947
 2010,Provoked,USA,Florida,Surf fishing / wading,M,NA,Leg bitten while trying to free a hooked shark PROVOKED INCIDENT,N,Blacktip,27.664827,-81.515754
 2010,Unprovoked,USA,Florida,Kite Boarding,M,38,FATAL,Y,NA,27.664827,-81.515754
 2010,Unprovoked,USA,Florida,Spearfishing,M,32,Lacerations to  arm,N,NA,27.664827,-81.515754
 2011,Unprovoked,USA,Florida,NA,M,NA,Hand injured,N,NA,27.664827,-81.515754
 2011,Unprovoked,USA,Florida,Surfing,M,27,Laceration to ankle,N,NA,27.664827,-81.515754
-2011,Provoked,USA,Hawaii,Canoeing,M,NA,"No injury, after kayak collided with the shark, it bit the rudder  PROVOKED INCIDENT",N,NA,-14.270972,-170.132217
+2011,Provoked,USA,Hawaii,Canoeing,M,NA,"No injury, after kayak collided with the shark, it bit the rudder  PROVOKED INCIDENT",N,NA,19.808065,-155.894947
 2011,Unprovoked,USA,Oregon,Surfing,F,NA,Minor injury to calf ,N,NA,43.804133,-120.554201
 2011,Unprovoked,USA,California,Kayaking,M,NA,"No injury, kayak bitten",N,White,36.778261,-119.417932
 2011,Unprovoked,USA,California,Surfing,M,27,"Lacerations to right wrist, foream & neck",N,White,36.778261,-119.417932
@@ -3078,10 +3078,10 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2011,Unprovoked,USA,Alabama,NA,M,29,Lacerations to right wrist and middle finger,N,NA,32.318231,-86.902298
 2011,Unprovoked,USA,Florida,Spearfishing,M,21,Laceration to left thigh,N,Bull   ,27.664827,-81.515754
 2011,Unprovoked,USA,South Carolina,Jumping in the waves,M,5,Laceration to left thigh,N,NA,33.836081,-81.163725
-2011,Boat,USA,Hawaii,Canoeing,M,NA,"No injury, canoe bitten by shark",N,NA,-14.270972,-170.132217
+2011,Boat,USA,Hawaii,Canoeing,M,NA,"No injury, canoe bitten by shark",N,NA,19.808065,-155.894947
 2011,Unprovoked,USA,Florida,Surfing,M,25,Lacerations to arm,N,NA,27.664827,-81.515754
 2011,Unprovoked,USA,California,Surfing,M,37,"No injury, board bitten",N,NA,36.778261,-119.417932
-2011,Unprovoked,USA,Hawaii,Surfing,NA,NA,"No injury, shark bit surfboard",N,NA,-14.270972,-170.132217
+2011,Unprovoked,USA,Hawaii,Surfing,NA,NA,"No injury, shark bit surfboard",N,NA,19.808065,-155.894947
 2011,Unprovoked,USA,Florida,Surfing,M,19,Lacerations to ankle & foot,N,Blacktip,27.664827,-81.515754
 2011,Unprovoked,USA,Florida,Surfing,M,19,Lacerations to lower leg,N,NA,27.664827,-81.515754
 2011,Unprovoked,USA,Texas,Wade Fishing,F,39,"Lacerations to anterior left shin, abrasion to posteior right leg",N,NA,31.968599,-99.901813
@@ -3102,8 +3102,8 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2011,Unprovoked,USA,California,Spearfishing,M,28,"No injury, minor damage to wetsuit",N,Sevengill     ,36.778261,-119.417932
 2011,Unprovoked,USA,Florida,Wading,M,19,Puncture wound to calf,N,NA,27.664827,-81.515754
 2011,Unprovoked,USA,Texas,Standing or boogie boardin,F,22,Lacerations & punctures to right thigh ,N,NA,31.968599,-99.901813
-2011,Unprovoked,USA,Hawaii,Surfing,F,NA,"No injury, board bitten",N,Tiger   ,-14.270972,-170.132217
-2011,Unprovoked,USA,Hawaii,Paddle boarding,F,NA,"No injury, board bitten",N,Tiger   ,-14.270972,-170.132217
+2011,Unprovoked,USA,Hawaii,Surfing,F,NA,"No injury, board bitten",N,Tiger   ,19.808065,-155.894947
+2011,Unprovoked,USA,Hawaii,Paddle boarding,F,NA,"No injury, board bitten",N,Tiger   ,19.808065,-155.894947
 2011,Unprovoked,USA,Florida,Body surfing,M,86,Lacerations to left foot & ankle,N,NA,27.664827,-81.515754
 2011,Unprovoked,USA,Florida,Surfing,M,37,Minor injury; puncture wounds to calf,N,NA,27.664827,-81.515754
 2011,Provoked,USA,Florida,Fishing ,M,NA,Laceration to arm by captive shark PROVOKED INCIDENT,N,Sandtiger,27.664827,-81.515754
@@ -3111,17 +3111,17 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2011,Unprovoked,USA,Florida,Surfing ,M,49,Minor puncture wounds,N,NA,27.664827,-81.515754
 2011,Provoked,USA,Texas,"Standing, holding shark pup",M,NA,Minor laceration to shoulder from captive shark PROVOKED INCIDENT,N,Blacktip,31.968599,-99.901813
 2012,Unprovoked,USA,Florida,Swimming,M,NA,Lower leg or ankle bitten,N,NA,27.664827,-81.515754
-2012,Unprovoked,USA,Hawaii,Surfing,M,60,Lacerations to left foot,N,NA,-14.270972,-170.132217
-2012,Unprovoked,USA,Hawaii,Snorkeling,M,61,Lacerations to thigh & lower left leg,N,Tiger   ,-14.270972,-170.132217
+2012,Unprovoked,USA,Hawaii,Surfing,M,60,Lacerations to left foot,N,NA,19.808065,-155.894947
+2012,Unprovoked,USA,Hawaii,Snorkeling,M,61,Lacerations to thigh & lower left leg,N,Tiger   ,19.808065,-155.894947
 2012,Unprovoked,USA,Florida,Surfing,M,14,Minor lacerations to left foot & heel,N,NA,27.664827,-81.515754
-2012,Unprovoked,USA,Hawaii,Diving,M,30,Right lower leg and foot bitten,N,Tiger   ,-14.270972,-170.132217
-2012,Unprovoked,USA,Hawaii,Surfing,M,43,"No injury, surfboard bitten",N,Tiger   ,-14.270972,-170.132217
+2012,Unprovoked,USA,Hawaii,Diving,M,30,Right lower leg and foot bitten,N,Tiger   ,19.808065,-155.894947
+2012,Unprovoked,USA,Hawaii,Surfing,M,43,"No injury, surfboard bitten",N,Tiger   ,19.808065,-155.894947
 2012,Unprovoked,USA,California,Surfing,M,25,Multiple lacerations to torso,N,White,36.778261,-119.417932
-2012,Unprovoked,USA,Hawaii,Swimming,F,51,"Puncture wounds to thigh, defense wounds  to hand",N,Tiger   ,-14.270972,-170.132217
+2012,Unprovoked,USA,Hawaii,Swimming,F,51,"Puncture wounds to thigh, defense wounds  to hand",N,Tiger   ,19.808065,-155.894947
 2012,Unprovoked,USA,California,Surfing,M,39,FATAL,Y,White,36.778261,-119.417932
 2012,Unprovoked,USA,Florida,NA,F,35,Left calf bitten,N,NA,27.664827,-81.515754
 2012,Unprovoked,USA,Florida,Surfing,M,24,Minor bite to ankle,N,NA,27.664827,-81.515754
-2012,Unprovoked,USA,Hawaii,Paddle boarding,M,55,"No injury, board bitten",N,NA,-14.270972,-170.132217
+2012,Unprovoked,USA,Hawaii,Paddle boarding,M,55,"No injury, board bitten",N,NA,19.808065,-155.894947
 2012,Unprovoked,USA,California,Windsurfing,M,42,"No ijnury to boardrider, shark struck board breaking the mast",N,NA,36.778261,-119.417932
 2012,Unprovoked,USA,Florida,Surfing,M,21,Lacerations to left forearm,N,NA,27.664827,-81.515754
 2012,Unprovoked,USA,Florida,Surfing,M,22,Left foot bitten,N,NA,27.664827,-81.515754
@@ -3133,18 +3133,18 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2012,Unprovoked,USA,Florida,Surfing,M,37,Lacerations to foot,N,NA,27.664827,-81.515754
 2012,Unprovoked,USA,Florida,Surfing,M,32,Puncture wounds to hand,N,NA,27.664827,-81.515754
 2012,Unprovoked,USA,Florida,Boogie boarding,F,8,Puncture wounds to calf and hand,N,NA,27.664827,-81.515754
-2012,Provoked,USA,Hawaii,Spearfishing,NA,NA,Minor laceration to hand  PROVOKED INCIDENT,N,Tiger   ,-14.270972,-170.132217
+2012,Provoked,USA,Hawaii,Spearfishing,NA,NA,Minor laceration to hand  PROVOKED INCIDENT,N,Tiger   ,19.808065,-155.894947
 2012,Unprovoked,USA,Florida,Swimming or boogie boarding,F,56,Puncture wound to left ankle,N,NA,27.664827,-81.515754
 2012,Unprovoked,USA,Alabama,Wading or swimming,M,31,Lacerations to leg,N,NA,32.318231,-86.902298
 2012,Unprovoked,USA,Florida,Free diving ,M,56,Lacerations to little finger of left hand,N,Lemon,27.664827,-81.515754
 2012,Unprovoked,USA,California,Surfing,M,17,"No injury, surfer knocked off board when shark struck surfboard",N,NA,36.778261,-119.417932
-2012,Unprovoked,USA,Hawaii,Surfing,M,44,Left foot bitten,N,NA,-14.270972,-170.132217
+2012,Unprovoked,USA,Hawaii,Surfing,M,44,Left foot bitten,N,NA,19.808065,-155.894947
 2012,Unprovoked,USA,Massachusetts,Body surfing,M,50,Lacerations to both legs below the knees,N,White,42.407211,-71.382437
 2012,Unprovoked,USA,North Carolina,Swimming,F,43,Lacerations to right ankle and calf,N,NA,35.759573,-79.0193
 2012,Unprovoked,USA,California,Kayaking,M,52,"No injury, kayak bitten",N,NA,36.778261,-119.417932
 2012,Unprovoked,USA,Florida,Swimming,M,6,Thigh bitten,N,Bull   ,27.664827,-81.515754
 2012,Unprovoked,USA,Florida,Surfing,M,26,Nip to left foot,N,NA,27.664827,-81.515754
-2012,Unprovoked,USA,Hawaii,Sitting in the water,F,16,Laceration to left calf,N,NA,-14.270972,-170.132217
+2012,Unprovoked,USA,Hawaii,Sitting in the water,F,16,Laceration to left calf,N,NA,19.808065,-155.894947
 2012,Unprovoked,USA,Florida,Swimming,M,12,Minor injury,N,NA,27.664827,-81.515754
 2012,Unprovoked,USA,North Carolina,Wading,F,6,Numerous puncture wounds to leg ,N,NA,35.759573,-79.0193
 2012,Provoked,USA,Florida,Fishing,M,23,Superficial injury to calf by hooked shark PROVOKED ACCIDENT,N,Nurse ,27.664827,-81.515754
@@ -3155,12 +3155,12 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2012,Unprovoked,USA,South Carolina,Boogie Boarding,M,25,Severe laceration to foot,N,NA,33.836081,-81.163725
 2012,Unprovoked,USA,North Carolina,Wading,F,33,Foot bitten,N,NA,35.759573,-79.0193
 2012,Unprovoked,USA,Florida,Surfing,M,22,Lacerations to foot,N,NA,27.664827,-81.515754
-2012,Unprovoked,USA,Hawaii,Kayak Fishing,M,NA,"No injury, teethmarks in kayak",N,Tiger   ,-14.270972,-170.132217
+2012,Unprovoked,USA,Hawaii,Kayak Fishing,M,NA,"No injury, teethmarks in kayak",N,Tiger   ,19.808065,-155.894947
 2012,Unprovoked,USA,California,Kayaking / Fishing,M,30,"No injury, kayaker fell in the water when kayak bitten by a shark",N,White,36.778261,-119.417932
 2012,Unprovoked,USA,Florida,Swimming,F,47,Upper left thigh bitten,N,NA,27.664827,-81.515754
 2012,Unprovoked,USA,California,Paddle boarding,F,15,"No injury, shark bit paddleboard",N,White,36.778261,-119.417932
 2012,Unprovoked,USA,Florida,Surfing,M,28,Lacerations to hand,N,NA,27.664827,-81.515754
-2012,Unprovoked,USA,Hawaii,Surfing,M,28,Lacerations to left foot,N,Tiger   ,-14.270972,-170.132217
+2012,Unprovoked,USA,Hawaii,Surfing,M,28,Lacerations to left foot,N,Tiger   ,19.808065,-155.894947
 2012,Unprovoked,USA,Florida,NA,M,NA,Right shin bitten,N,NA,27.664827,-81.515754
 2012,Unprovoked,USA,Florida,Surfing,M,21,Minor lacerations to foot,N,NA,27.664827,-81.515754
 2012,Unprovoked,USA,Florida,Surfing,M,61,Left forearm bitten,N,Bull   ,27.664827,-81.515754
@@ -3168,19 +3168,19 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2012,Unprovoked,USA,Florida,Surfing,M,17,Bitten on calf,N,NA,27.664827,-81.515754
 2012,Unprovoked,USA,Florida,Kite Surfing,M,19,Lacerations to left calf,N,NA,27.664827,-81.515754
 2012,Provoked,USA,Florida,Kite Surfing,M,NA,Laceration to right foot when he struck a shark PROVOKED INCIDENT,N,Blacktip,27.664827,-81.515754
-2012,Unprovoked,USA,Hawaii,Snorkeling,NA,NA,"No injury, shark bit swim fin",N,NA,-14.270972,-170.132217
+2012,Unprovoked,USA,Hawaii,Snorkeling,NA,NA,"No injury, shark bit swim fin",N,NA,19.808065,-155.894947
 2012,Unprovoked,USA,Oregon,Surfing,M,53,"No injury, surfboard damaged",N,White,43.804133,-120.554201
-2012,Unprovoked,USA,Hawaii,Diving,M,NA,Minor laceration to hand,N, Galapagos  ,-14.270972,-170.132217
-2013,Unprovoked,USA,Hawaii,Boogie boarding,M,29,Lacerations to right hand & knee,N,Tiger   ,-14.270972,-170.132217
+2012,Unprovoked,USA,Hawaii,Diving,M,NA,Minor laceration to hand,N, Galapagos  ,19.808065,-155.894947
+2013,Unprovoked,USA,Hawaii,Boogie boarding,M,29,Lacerations to right hand & knee,N,Tiger   ,19.808065,-155.894947
 2013,Unprovoked,USA,Florida,Surfing,M,30,Right foot bitten,N,NA,27.664827,-81.515754
-2013,Unprovoked,USA,Hawaii,Kayaking / Fishing,M,57,FATAL,Y,NA,-14.270972,-170.132217
-2013,Unprovoked,USA,Hawaii,Snorkeling,F,58,Right calf bitten,N,NA,-14.270972,-170.132217
+2013,Unprovoked,USA,Hawaii,Kayaking / Fishing,M,57,FATAL,Y,NA,19.808065,-155.894947
+2013,Unprovoked,USA,Hawaii,Snorkeling,F,58,Right calf bitten,N,NA,19.808065,-155.894947
 2013,Unprovoked,USA,Oregon,Surfing,M,25,"No injury, board bitten",N,White,43.804133,-120.554201
 2013,Unprovoked,USA,New Jersey,Body boarding,M,16,"No injury, swim fin bitten",N,NA,40.058324,-74.405661
 2013,Unprovoked,USA,Florida,Surfing,M,NA,Foot bitten,N,NA,27.664827,-81.515754
-2013,Unprovoked,USA,Hawaii,Kiteboarding,M,46,Severe bite to right calf & anklel,N,Tiger   ,-14.270972,-170.132217
-2013,Unprovoked,USA,Hawaii,Diving ,M,45,"3"" laceration to left hip",N,NA,-14.270972,-170.132217
-2013,Unprovoked,USA,Hawaii,Surfing,M,25,"No injury, shark bit surfboard",N,Tiger   ,-14.270972,-170.132217
+2013,Unprovoked,USA,Hawaii,Kiteboarding,M,46,Severe bite to right calf & anklel,N,Tiger   ,19.808065,-155.894947
+2013,Unprovoked,USA,Hawaii,Diving ,M,45,"3"" laceration to left hip",N,NA,19.808065,-155.894947
+2013,Unprovoked,USA,Hawaii,Surfing,M,25,"No injury, shark bit surfboard",N,Tiger   ,19.808065,-155.894947
 2013,Unprovoked,USA,Florida,Wading,M,6,Bitten on left calf & foot,N,Nurse ,27.664827,-81.515754
 2013,Unprovoked,USA,California,Surfing,M,45,Laceration to thigh,N,White,36.778261,-119.417932
 2013,Unprovoked,USA,Florida,Wading,M,12,Lacerations to  right forearm,N,Sandtiger,27.664827,-81.515754
@@ -3198,47 +3198,47 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2013,Unprovoked,USA,Florida,Casting a net,M,9,Lacerations to left calf,N,NA,27.664827,-81.515754
 2013,Unprovoked,USA,California,Swimming,M,NA,Foot bitten,N,Salmon,36.778261,-119.417932
 2013,Unprovoked,USA,Florida,Boogie boarding,F,11,Minor injury to left lower leg & heel,N,NA,27.664827,-81.515754
-2013,Unprovoked,USA,Hawaii,Surfing,M,16,Lacerations to buttocks & thigh,N,NA,-14.270972,-170.132217
+2013,Unprovoked,USA,Hawaii,Surfing,M,16,Lacerations to buttocks & thigh,N,NA,19.808065,-155.894947
 2013,Unprovoked,USA,California,Surfing,F,NA,"No injury, shark bumped surfboard",N,White,36.778261,-119.417932
-2013,Unprovoked,USA,Hawaii,Snorkeling,F,20,FATAL,Y,Tiger   ,-14.270972,-170.132217
-2013,Unprovoked,USA,Hawaii,Kiteboarding,F,19,No injury & not on board. Board adrift when bitten by shark,N,NA,-14.270972,-170.132217
+2013,Unprovoked,USA,Hawaii,Snorkeling,F,20,FATAL,Y,Tiger   ,19.808065,-155.894947
+2013,Unprovoked,USA,Hawaii,Kiteboarding,F,19,No injury & not on board. Board adrift when bitten by shark,N,NA,19.808065,-155.894947
 2013,Unprovoked,USA,South Carolina,Surfing,M,10,"No injury, shark became entangled in his surfboard leash",N,Bull   ,33.836081,-81.163725
 2013,Unprovoked,USA,Florida,Fishing,M,17,Minor injury to foot & shin,N,Bull   ,27.664827,-81.515754
-2013,Unprovoked,USA,Hawaii,Snorkeling,F,56,"Lacerations to hand, face and torso",N,NA,-14.270972,-170.132217
+2013,Unprovoked,USA,Hawaii,Snorkeling,F,56,"Lacerations to hand, face and torso",N,NA,19.808065,-155.894947
 2013,Unprovoked,USA,South Carolina,Swimming,M,32,Foot bitten,N,NA,33.836081,-81.163725
-2013,Unprovoked,USA,Hawaii,Surfing,M,18,Lower leg bitten,N,Tiger   ,-14.270972,-170.132217
+2013,Unprovoked,USA,Hawaii,Surfing,M,18,Lower leg bitten,N,Tiger   ,19.808065,-155.894947
 2013,Unprovoked,USA,Alabama,Walking in surf,F,50,Lacerations and abrasions to foot and ankle,N,NA,32.318231,-86.902298
 2013,Unprovoked,USA,Florida,Swimming ,M,NA,4 cuts to posterior calf,N,NA,27.664827,-81.515754
 2013,Unprovoked,USA,North Carolina,Wading,F,63,Right foot bitten,N,NA,35.759573,-79.0193
 2013,Unprovoked,USA,California,Kayaking / Fishing,M,NA,"No injury, kayak scratched",N,White,36.778261,-119.417932
 2013,Unprovoked,USA,Florida,Swimming,M,NA,Lacerations to left foot,N,Bull   ,27.664827,-81.515754
 2013,Unprovoked,USA,South Carolina,Swimming,M,14,"Bitten on lower right leg, reported as a minor injury",N,NA,33.836081,-81.163725
-2013,Unprovoked,USA,Hawaii,Swimming,M,28,Right thigh & calf bitten,N,Tiger   ,-14.270972,-170.132217
+2013,Unprovoked,USA,Hawaii,Swimming,M,28,Right thigh & calf bitten,N,Tiger   ,19.808065,-155.894947
 2013,Unprovoked,USA,Texas,Swimming,M,15,Left leg & hand bitten,N,NA,31.968599,-99.901813
 2013,Unprovoked,USA,Florida,Surfing,F,NA,Lacerations to left ankle,N,NA,27.664827,-81.515754
 2013,Unprovoked,USA,South Carolina,Boogie Boarding,F,10,Puncture marks to hand,N,NA,33.836081,-81.163725
 2013,Provoked,USA,Florida,Fishing for sharks,M,58,Left hand bitten as he attempted to remove hook from shark PROVOKED INCIDENT,N,Lemon,27.664827,-81.515754
-2013,Unprovoked,USA,Hawaii,Diving,M,32,Lacerations to right hand,N,Galapagos ,-14.270972,-170.132217
+2013,Unprovoked,USA,Hawaii,Diving,M,32,Lacerations to right hand,N,Galapagos ,19.808065,-155.894947
 2013,Unprovoked,USA,Florida,Swimming,M,11,Right foot bitten,N,NA,27.664827,-81.515754
 2013,Unprovoked,USA,Florida,Surfing,M,16,Lacerations to left foot and ankle,N,NA,27.664827,-81.515754
 2013,Unprovoked,USA,Florida,Playing in the surf,M,9,Lacerations to right foot,N,NA,27.664827,-81.515754
 2013,Unprovoked,USA,Florida,Surfing,M,21,Minor lacerations to right hand,N,Bull   ,27.664827,-81.515754
 2013,Unprovoked,USA,Florida,Swimming,M,50,Lacerations to hand,N,NA,27.664827,-81.515754
-2013,Unprovoked,USA,Hawaii,Surfing,M,58,Right thigh bitten,N,NA,-14.270972,-170.132217
-2013,Unprovoked,USA,Hawaii,Surfing,NA,NA,Lacerations to right leg,N,Grey reef ,-14.270972,-170.132217
-2013,Unprovoked,USA,Hawaii,Surfing,M,NA,"No injury, shark bit rail of foam board",N,Grey reef ,-14.270972,-170.132217
+2013,Unprovoked,USA,Hawaii,Surfing,M,58,Right thigh bitten,N,NA,19.808065,-155.894947
+2013,Unprovoked,USA,Hawaii,Surfing,NA,NA,Lacerations to right leg,N,Grey reef ,19.808065,-155.894947
+2013,Unprovoked,USA,Hawaii,Surfing,M,NA,"No injury, shark bit rail of foam board",N,Grey reef ,19.808065,-155.894947
 2013,Unprovoked,USA,Florida,Surfing,M,16,Lacerations to right hand,N,Blacktip,27.664827,-81.515754
-2013,Unprovoked,USA,Hawaii,Surfing,M,43,Left forearm bitten ,N,Tiger   ,-14.270972,-170.132217
+2013,Unprovoked,USA,Hawaii,Surfing,M,43,Left forearm bitten ,N,Tiger   ,19.808065,-155.894947
 2014,Unprovoked,USA,California,Surfing,M,50,Injury to hip/leg,N,White,36.778261,-119.417932
 2014,Boat,USA,California,NA,NA,NA,"Shark bumped boat, no injury to occupants",N,White,36.778261,-119.417932
 2014,Unprovoked,USA,Florida,Surfing,M,44,Laceration to left hand,N,NA,27.664827,-81.515754
-2014,Unprovoked,USA,Hawaii,Snorkeling,M,53,Laceration to left upper leg,N,NA,-14.270972,-170.132217
+2014,Unprovoked,USA,Hawaii,Snorkeling,M,53,Laceration to left upper leg,N,NA,19.808065,-155.894947
 2014,Unprovoked,USA,Florida,Surfing,M,18,Minor injuries to hand & arm ,N,NA,27.664827,-81.515754
-2014,Unprovoked,USA,Hawaii,Surfing,F,34,Lacerations to fingers,N,Tiger   ,-14.270972,-170.132217
-2014,Unprovoked,USA,Hawaii,Stand-Up Paddleboarding,F,NA,"No injury, paddleboard bitten",N,Tiger   ,-14.270972,-170.132217
-2014,Unprovoked,USA,Hawaii,Stand-Up Paddleboarding,M,NA,"No injury, paddleboard bitten",N,NA,-14.270972,-170.132217
+2014,Unprovoked,USA,Hawaii,Surfing,F,34,Lacerations to fingers,N,Tiger   ,19.808065,-155.894947
+2014,Unprovoked,USA,Hawaii,Stand-Up Paddleboarding,F,NA,"No injury, paddleboard bitten",N,Tiger   ,19.808065,-155.894947
+2014,Unprovoked,USA,Hawaii,Stand-Up Paddleboarding,M,NA,"No injury, paddleboard bitten",N,NA,19.808065,-155.894947
 2014,Boat,USA,California,Canoeing,F,NA,"No injury to occupant, canoe bitten",N,NA,36.778261,-119.417932
-2014,Unprovoked,USA,Hawaii,Surfing,M,NA,"No injury, surfboard bitten",N,NA,-14.270972,-170.132217
+2014,Unprovoked,USA,Hawaii,Surfing,M,NA,"No injury, surfboard bitten",N,NA,19.808065,-155.894947
 2014,Unprovoked,USA,South Carolina,Standing in inner tube,F,7,Lacerations to left foot,N,Bull   ,33.836081,-81.163725
 2014,Unprovoked,USA,Florida,Body surfing or Boogie boarding,F,NA,Laceration to right hand/wrist,N,NA,27.664827,-81.515754
 2014,Unprovoked,USA,Florida,Surfing,M,29,Foot bitten,N,Blacktip,27.664827,-81.515754
@@ -3268,7 +3268,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2014,Unprovoked,USA,Florida,Boogie boarding,M,8,Laceration to ankle,N,NA,27.664827,-81.515754
 2014,Unprovoked,USA,North Carolina,Swimming,M,NA,Left foot bitten,N,Tiger   ,35.759573,-79.0193
 2014,Unprovoked,USA,Florida,Standing,M,8,Lacerations to right knee,N,NA,27.664827,-81.515754
-2014,Unprovoked,USA,Hawaii,Swimming,M,61,Lacerations to left foot,N,NA,-14.270972,-170.132217
+2014,Unprovoked,USA,Hawaii,Swimming,M,61,Lacerations to left foot,N,NA,19.808065,-155.894947
 2014,Unprovoked,USA,Florida,Swimming,M,39,Puncture wounds to foot,N,NA,27.664827,-81.515754
 2014,Unprovoked,USA,North Carolina,Body surfing,M,NA,Lacerations to hand and wrist,N,NA,35.759573,-79.0193
 2014,Unprovoked,USA,Florida,Surfing,M,14,Lacerations to foot,N,NA,27.664827,-81.515754
@@ -3289,25 +3289,25 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2014,Unprovoked,USA,Florida,Kite Surfing,M,NA,Lacerations to left forearm,N,NA,27.664827,-81.515754
 2014,Unprovoked,USA,Florida,Surfing,M,9,Lacerations to toes and heel of right foot,N,NA,27.664827,-81.515754
 2014,Unprovoked,USA,Florida,Surfing,M,21,Lacerations to toes,N,Blacktip,27.664827,-81.515754
-2015,Unprovoked,USA,Hawaii,Paddle boarding,M,71,"No injury, shark bit board",N,NA,-14.270972,-170.132217
+2015,Unprovoked,USA,Hawaii,Paddle boarding,M,71,"No injury, shark bit board",N,NA,19.808065,-155.894947
 2015,Unprovoked,USA,Florida,Swimming,F,NA,Leg injured,N,NA,27.664827,-81.515754
 2015,Unprovoked,USA,Florida,Surfing,M,28,Lacerations to hand,N,Blacktip,27.664827,-81.515754
-2015,Unprovoked,USA,Hawaii,Swimming,M,54,Laceration to right ankle,N,NA,-14.270972,-170.132217
+2015,Unprovoked,USA,Hawaii,Swimming,M,54,Laceration to right ankle,N,NA,19.808065,-155.894947
 2015,Unprovoked,USA,Florida,Wading,F,28,Injury to right ankle/calf & hand,N,NA,27.664827,-81.515754
-2015,Unprovoked,USA,Hawaii,Body boarding,M,10,"Lacerations & puncture wounds to right thigh, calf & ankle",N,NA,-14.270972,-170.132217
+2015,Unprovoked,USA,Hawaii,Body boarding,M,10,"Lacerations & puncture wounds to right thigh, calf & ankle",N,NA,19.808065,-155.894947
 2015,Unprovoked,USA,Florida,Surfing,M,21,Lacerations to left hand,N,NA,27.664827,-81.515754
 2015,Unprovoked,USA,Florida,Surfing,M,21,Left foot bitten,N,Blacktip,27.664827,-81.515754
-2015,Unprovoked,USA,Hawaii,Swimming,M,44,Injuries to lower legs,N,Tiger   ,-14.270972,-170.132217
+2015,Unprovoked,USA,Hawaii,Swimming,M,44,Injuries to lower legs,N,Tiger   ,19.808065,-155.894947
 2015,Boat,USA,California,Kayak Fishing,M,NA,"No injury, shark rammed kayak repeatedly",N,Hammerhead ,36.778261,-119.417932
 2015,Unprovoked,USA,South Carolina,Boogie boarding,F,9,Laceration to forearm,N,NA,33.836081,-81.163725
-2015,Unprovoked,USA,Hawaii,Surfing,M,25,"Left leg severed below the knee, defense injuries to left hand",N,Tiger   ,-14.270972,-170.132217
+2015,Unprovoked,USA,Hawaii,Surfing,M,25,"Left leg severed below the knee, defense injuries to left hand",N,Tiger   ,19.808065,-155.894947
 2015,Unprovoked,USA,Florida,Body boarding,M,22,2 lacerations to ankle,N,NA,27.664827,-81.515754
 2015,Unprovoked,USA,Texas,Wading,M,13,Foot & hands bitten,N,NA,31.968599,-99.901813
 2015,Unprovoked,USA,Florida,Surfing,M,14,Severe lacerations to left hand,N,Blacktip,27.664827,-81.515754
 2015,Unprovoked,USA,Florida,Surfing,M,22,"Laceration to heel, puncture wounds to dorsum of foot",N,Blacktip,27.664827,-81.515754
 2015,Unprovoked,USA,California,Kayak fishing,M,NA,"No injury, kayak damaged",N,White,36.778261,-119.417932
 2015,Unprovoked,USA,Florida,Surfing,M,14,Minor injury to left ankle,N,NA,27.664827,-81.515754
-2015,Unprovoked,USA,Hawaii,Spearfishing,M,27,Severe laceration to left leg,N,Tiger   ,-14.270972,-170.132217
+2015,Unprovoked,USA,Hawaii,Spearfishing,M,27,Severe laceration to left leg,N,Tiger   ,19.808065,-155.894947
 2015,Unprovoked,USA,Florida,Wading,M,12,Significant injuries to leg,N,NA,27.664827,-81.515754
 2015,Unprovoked,USA,Florida,Photographing fish,M,16,Injury to right hand / wrist,N,NA,27.664827,-81.515754
 2015,Unprovoked,USA,Florida,Swimming,M,NA,Lacerations to calf,N,NA,27.664827,-81.515754
@@ -3345,22 +3345,22 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2015,Unprovoked,USA,Florida,Surfing,M,18,2 puncture wounds to  dorsum of left foot,N,NA,27.664827,-81.515754
 2015,Unprovoked,USA,South Carolina,NA,M,30,Laceration to foot ,N,NA,33.836081,-81.163725
 2015,Unprovoked,USA,Florida,Swimming,M,NA,"Lacerations to lower left leg, ankle & foot",N,NA,27.664827,-81.515754
-2015,Unprovoked,USA,Hawaii,Snorkeling,F,65,FATAL,Y,NA,-14.270972,-170.132217
+2015,Unprovoked,USA,Hawaii,Snorkeling,F,65,FATAL,Y,NA,19.808065,-155.894947
 2015,Unprovoked,USA,Florida,Wading,M,63,Lacerations to left calf,N,NA,27.664827,-81.515754
 2015,Unprovoked,USA,Florida,Photographing the shark,M,48,Lacerations to shoulder and left bicep,N,Blue ,27.664827,-81.515754
 2015,Unprovoked,USA,Florida,Spearfishing,M,70,Injuries to head & torso,N,Bull   ,27.664827,-81.515754
-2015,Unprovoked,USA,Hawaii,Standing / Snorkeling,M,58,Lacerations to left forearm. Lacerations to left hand and thigh,N,Tiger   ,-14.270972,-170.132217
-2015,Provoked,USA,Hawaii,Shark fishing,M,20,Lacerations to calf by hooked shark PROVOKED INCIDENT,N,NA,-14.270972,-170.132217
+2015,Unprovoked,USA,Hawaii,Standing / Snorkeling,M,58,Lacerations to left forearm. Lacerations to left hand and thigh,N,Tiger   ,19.808065,-155.894947
+2015,Provoked,USA,Hawaii,Shark fishing,M,20,Lacerations to calf by hooked shark PROVOKED INCIDENT,N,NA,19.808065,-155.894947
 2015,Boat,USA,Florida,Fishing,M,NA,No injury but shark bit trolling motor & rammed boat,N,White,27.664827,-81.515754
 2015,Unprovoked,USA,Florida,NA,M,12,Leg bitten,N,NA,27.664827,-81.515754
 2015,Unprovoked,USA,Florida,Surfing,M,NA,Right heel injured,N,NA,27.664827,-81.515754
 2015,Unprovoked,USA,South Carolina,Swimming,F,NA,"Multiple lacerations on both thighs, right buttock and hip",N,NA,33.836081,-81.163725
 2016,Unprovoked,USA,Florida,Surfing,M,16,Lacerations to right forearm,N,NA,27.664827,-81.515754
-2016,Unprovoked,USA,Hawaii,Floating,F,58,Injuries to right calf and thigh,N,Tiger   ,-14.270972,-170.132217
+2016,Unprovoked,USA,Hawaii,Floating,F,58,Injuries to right calf and thigh,N,Tiger   ,19.808065,-155.894947
 2016,Unprovoked,USA,Florida,Surfing,M,41,Lacerations to right foot and ankle,N,NA,27.664827,-81.515754
 2016,Unprovoked,USA,Florida,Surfing,M,42,Lacerations to right hand,N,NA,27.664827,-81.515754
-2016,Unprovoked,USA,Hawaii,Surfing,M,36,Left arm and leg injured,N,NA,-14.270972,-170.132217
-2016,Unprovoked,USA,Hawaii,Snorkeling,F,66,Injuries to left calf,N,NA,-14.270972,-170.132217
+2016,Unprovoked,USA,Hawaii,Surfing,M,36,Left arm and leg injured,N,NA,19.808065,-155.894947
+2016,Unprovoked,USA,Hawaii,Snorkeling,F,66,Injuries to left calf,N,NA,19.808065,-155.894947
 2016,Unprovoked,USA,Oregon,Surfing,M,29,Wounds to upper thigh and lower leg,N,NA,43.804133,-120.554201
 2016,Unprovoked,USA,Florida,Surfing,M,21,Cuts to dorsal surface of left foot,N,NA,27.664827,-81.515754
 2016,Unprovoked,USA,Florida,Surfng,M,32,Minor injuries,N,NA,27.664827,-81.515754
@@ -3369,14 +3369,14 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2016,Unprovoked,USA,Florida,Surfing,M,43,Lacerations to lower leg,N,NA,27.664827,-81.515754
 2016,Unprovoked,USA,California,Surfing,M,43,"No injury, board bitten",N,NA,36.778261,-119.417932
 2016,Unprovoked,USA,Florida,Wading,M,60,Minor injury to arm,N,NA,27.664827,-81.515754
-2016,Unprovoked,USA,Hawaii,Swimming,F,51,Severe lacerations to shoulder & forearm,N,Tiger   ,-14.270972,-170.132217
+2016,Unprovoked,USA,Hawaii,Swimming,F,51,Severe lacerations to shoulder & forearm,N,Tiger   ,19.808065,-155.894947
 2016,Unprovoked,USA,South Carolina,Boogie boarding,F,12,Lacerations & punctures to lower right leg,N,NA,33.836081,-81.163725
 2016,Unprovoked,USA,Florida,Body boarding,M,9,Foot bitten,N,NA,27.664827,-81.515754
 2016,Unprovoked,USA,California,Spearfishing,M,22,Two toes broken & lacerated,N,White,36.778261,-119.417932
 2016,Unprovoked,USA,Florida,Surfing,M,25,Lacerations to right foot,N,Bull   ,27.664827,-81.515754
 2016,Unprovoked,USA,Florida,Surfing,M,37,Minor injury to ankle,N,NA,27.664827,-81.515754
 2016,Unprovoked,USA,Florida,Wading,M,49,Minor injury to ankle,N,NA,27.664827,-81.515754
-2016,Unprovoked,USA,Hawaii,SUP Foil boarding,M,21,"No inury, shark & board collided",N,Tiger   ,-14.270972,-170.132217
+2016,Unprovoked,USA,Hawaii,SUP Foil boarding,M,21,"No inury, shark & board collided",N,Tiger   ,19.808065,-155.894947
 2016,Unprovoked,USA,Florida,Surfing,M,22,Big toe bitten,N,Blacktip,27.664827,-81.515754
 2016,Provoked,USA,Florida,Lobstering,M,43,Laceration to left forearm PROVOKED INCIDENT,N,Nurse ,27.664827,-81.515754
 2016,Boat,USA,Alabama,Fishing in Alabama Deep Fishing Rodeo,NA,NA,"No injury, shark bit trolling motor",N,Tiger   ,32.318231,-86.902298
@@ -3392,7 +3392,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2016,Unprovoked,USA,North Carolina,Surfing,M,11,Foot injured,N,NA,35.759573,-79.0193
 2016,Unprovoked,USA,South Carolina,Floating,M,42,Lacerations and punctures to foot,N,NA,33.836081,-81.163725
 2016,Unprovoked,USA,Florida,Wading,M,NA,Injuries to right calf,N,NA,27.664827,-81.515754
-2016,Unprovoked,USA,Hawaii,Surfing,M,NA,Single puncture wound to arm,N,NA,-14.270972,-170.132217
+2016,Unprovoked,USA,Hawaii,Surfing,M,NA,Single puncture wound to arm,N,NA,19.808065,-155.894947
 2016,Unprovoked,USA,Texas,Floating in tube,F,6,Injury to lower leg,N,NA,31.968599,-99.901813
 2016,Unprovoked,USA,North Carolina,Standing,M,19,Laceration to wrist,N,NA,35.759573,-79.0193
 2016,Unprovoked,USA,Florida,Swimming,M,64,Leg bitten,N,NA,27.664827,-81.515754
@@ -3403,22 +3403,22 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2016,Unprovoked,USA,Florida,Swimming,F,11,"Back, arm & hand injured",N,NA,27.664827,-81.515754
 2016,Unprovoked,USA,Florida,Swimming,M,48,Ankle bitten,N,Blacktip,27.664827,-81.515754
 2016,Provoked,USA,Florida,Teasing a shark,F,23,Arm grabbed PROVOKED INCIDENT,N,Nurse ,27.664827,-81.515754
-2016,Unprovoked,USA,Hawaii,Floating,M,59,Minor lacerations to right shoulder,N,NA,-14.270972,-170.132217
+2016,Unprovoked,USA,Hawaii,Floating,M,59,Minor lacerations to right shoulder,N,NA,19.808065,-155.894947
 2016,Unprovoked,USA,Florida,Surfing,M,15,Minor injury to left foot,N,NA,27.664827,-81.515754
 2016,Unprovoked,USA,Florida,Spearfishing,M,26,Multiple bites to right arm,N,Bull   ,27.664827,-81.515754
 2016,Unprovoked,USA,Florida,Fishing,M,34,Left hand bitten,N,NA,27.664827,-81.515754
-2016,Unprovoked,USA,Hawaii,Snorkeling,F,46,Minor injury to left foot,N,NA,-14.270972,-170.132217
+2016,Unprovoked,USA,Hawaii,Snorkeling,F,46,Minor injury to left foot,N,NA,19.808065,-155.894947
 2016,Unprovoked,USA,Florida,Body surfing,M,19,Lacerations to right foot and ankle,N,NA,27.664827,-81.515754
 2016,Unprovoked,USA,Florida,NA,M,12,Superficial injury to foot,N,NA,27.664827,-81.515754
-2016,Unprovoked,USA,Hawaii,Surfing,M,NA,Lacerations to both hands,N,Grey reef ,-14.270972,-170.132217
-2016,Unprovoked,USA,Hawaii,Surfing,F,15,No injury,N,NA,-14.270972,-170.132217
+2016,Unprovoked,USA,Hawaii,Surfing,M,NA,Lacerations to both hands,N,Grey reef ,19.808065,-155.894947
+2016,Unprovoked,USA,Hawaii,Surfing,F,15,No injury,N,NA,19.808065,-155.894947
 2016,Unprovoked,USA,Texas,Spearfishing,M,NA,"Bruised ribs & tail bone, speargun broken and wetsuit cut",N,Bull   ,31.968599,-99.901813
-2016,Unprovoked,USA,Hawaii,Paddle boarding,M,48,No injury,N,Tiger   ,-14.270972,-170.132217
+2016,Unprovoked,USA,Hawaii,Paddle boarding,M,48,No injury,N,Tiger   ,19.808065,-155.894947
 2016,Unprovoked,USA,New Jersey,Swimming,M,18,FATAL,Y,NA,40.058324,-74.405661
 2016,Boat,USA,New Jersey,Fishing,M,NA,No injury to occupants,N,Whitetip,40.058324,-74.405661
 2016,Unprovoked,USA,California,Swimming with dog near canning factory,M,15,Leg & hand lacerated and dog bitten,N,White,36.778261,-119.417932
-2016,Unprovoked,USA,Hawaii,Swimming,M,NA,"FATAL, gave sudden shriek & disappeared, body found in shark caught off Kahuka",Y,White,-14.270972,-170.132217
-2016,Unprovoked,USA,Hawaii,Swimming,F,NA,Right leg bitten thigh to heel,N,NA,-14.270972,-170.132217
+2016,Unprovoked,USA,Hawaii,Swimming,M,NA,"FATAL, gave sudden shriek & disappeared, body found in shark caught off Kahuka",Y,White,19.808065,-155.894947
+2016,Unprovoked,USA,Hawaii,Swimming,F,NA,Right leg bitten thigh to heel,N,NA,19.808065,-155.894947
 2017,Unprovoked,USA,Florida,Surfing,M,19,Laceration to left foot,N,NA,27.664827,-81.515754
 2017,Unprovoked,USA,Florida,Spearfishing,M,NA,Laceration to shin,N,NA,27.664827,-81.515754
 2017,Provoked,USA,South Carolina,Touching a shark,F,20,Right hand bitten by hooked shark PROVOKED INCIDENT,N,NA,33.836081,-81.163725
@@ -3426,7 +3426,7 @@ Year,Type,Country,Area,Activity,Sex ,Age,Injury,Fatal (Y/N),Species ,latitude,lo
 2017,Unprovoked,USA,California,NA,F,NA,Major injury to posterior thigh,N,NA,36.778261,-119.417932
 2017,Unprovoked,USA,South Carolina,Surfing,F,33,Left foot bitten,N,NA,33.836081,-81.163725
 2017,Unprovoked,USA,Florida,NA,NA,NA,Minor bite to the foot,N,NA,27.664827,-81.515754
-2017,Unprovoked,USA,Hawaii,Surfing,M,28,Lower right leg severely injured,N,Tiger   ,-14.270972,-170.132217
+2017,Unprovoked,USA,Hawaii,Surfing,M,28,Lower right leg severely injured,N,Tiger   ,19.808065,-155.894947
 2017,Unprovoked,USA,Florida,Surfing,M,17,Lacerations to right foot,N,NA,27.664827,-81.515754
 2017,Unprovoked,USA,Florida,Surfing,F,NA,Lacerations to right foot,N,NA,27.664827,-81.515754
 2017,Unprovoked,USA,Florida,Surfing,F,35,Calf bitten,N,NA,27.664827,-81.515754
