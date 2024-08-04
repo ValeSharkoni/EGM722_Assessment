@@ -205,28 +205,28 @@ bull_gdf = gpd.GeoDataFrame(
 # We need to load a world map
 world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
 
-# Plot the world map for White sharks, with multiplied counts by 10 for better visibility
+# Plot the world map for White sharks
 fig, ax = plt.subplots(figsize=(15, 10))
 world.plot(ax=ax, color='lightgrey')
-white_gdf.plot(ax=ax, color='red', markersize=white_gdf['counts']*10)
+white_gdf.plot(ax=ax, color='red', markersize=white_gdf['counts'])
 plt.title('Locations of White Shark attacks')
 plt.xlabel('Longitude')
 plt.ylabel('Latitude')
 plt.show()
 
-# Plot the world map for Tiger sharks, with multiplied counts by 10 for better visibility
+# Plot the world map for Tiger sharks
 fig, ax = plt.subplots(figsize=(15, 10))
 world.plot(ax=ax, color='lightgrey')
-tiger_gdf.plot(ax=ax, color='blue', markersize=tiger_gdf['counts']*10)
+tiger_gdf.plot(ax=ax, color='blue', markersize=tiger_gdf['counts'])
 plt.title('Locations of Tiger Shark attacks')
 plt.xlabel('Longitude')
 plt.ylabel('Latitude')
 plt.show()
 
-# Plot the world map for Bull sharks, with multiplied counts by 10 for better visibility
+# Plot the world map for Bull sharks
 fig, ax = plt.subplots(figsize=(15, 10))
 world.plot(ax=ax, color='lightgrey')
-bull_gdf.plot(ax=ax, color='green', markersize=bull_gdf['counts']*10)
+bull_gdf.plot(ax=ax, color='green', markersize=bull_gdf['counts'])
 plt.title('Locations of Bull Shark attacks')
 plt.xlabel('Longitude')
 plt.ylabel('Latitude')
