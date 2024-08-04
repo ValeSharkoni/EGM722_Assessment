@@ -193,6 +193,7 @@ white_grouped = white_shark_data.groupby(['latitude', 'longitude']).size().reset
 tiger_grouped = tiger_shark_data.groupby(['latitude', 'longitude']).size().reset_index(name='counts')
 bull_grouped = bull_shark_data.groupby(['latitude', 'longitude']).size().reset_index(name='counts')
 
+# Then , we create the GeoDataFrames for each species
 white_gdf = gpd.GeoDataFrame(
     white_grouped, geometry=gpd.points_from_xy(white_grouped.longitude, white_grouped.latitude))
 tiger_gdf = gpd.GeoDataFrame(
